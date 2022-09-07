@@ -1,0 +1,1409 @@
+ --- 
+id: 1
+  translations:
+    fr: Adrar
+    ar: أدرار
+  dairas:
+    - ar_name: أدرار
+      name: Adrar
+    - ar_name: أولف
+      name: Aoulef
+    - ar_name: فنوغيل
+      name: Fenoughil  
+    - ar_name: زاوية كنتة
+      name: Zaouiat Kounta
+    - ar_name: رقان
+      name: Reggane  
+    - ar_name: تسابيت
+      name: Tsabit  
+
+id: 2
+  translations:
+    name: Chlef
+    ar_name: الشلف
+  dairas:
+    - ar_name: أبو الحسن
+      name: Abou El Hassane
+    - ar_name: عين مران
+      name: Ain Merane
+    - ar_name: الزبوجة
+      name: Zeboudja
+    - ar_name: الكريمية
+      name: El Karimia
+    - ar_name: بني حواء
+      name: Beni Haoua
+    - ar_name: وادي الفضة
+      name: Oued Fodda
+    - ar_name: بوقادير
+      name: Boukadir
+    - ar_name: أولاد فارس
+      name: Ouled Fares
+    - ar_name: الشلف
+      name: Chlef
+    - ar_name: تاوقريت
+      name: Taougrit
+    - ar_name: أولاد بن عبد القادر
+      name: Ouled Ben Abdelkader
+    - ar_name: المرسى
+      name: El Marsa
+    - ar_name: تنس
+      name: Tenes
+
+id: 3
+  translations:
+    name: Laghouat
+    ar_name: الأغواط
+  dairas:
+    - ar_name: أفلو
+      name: Aflou
+    - ar_name: عين ماضي
+      name: Ain Madhi
+    - ar_name: قتلة سيدي سعيد
+      name: Gueltat Sidi Saad
+    - ar_name: قصر الحيران
+      name: Ksar El Hirane
+    - ar_name: بريدة
+      name: Brida
+    - ar_name: سيدي مخلوف
+      name: Sidi Makhlouf
+    - ar_name: الغيشة
+      name: El Ghicha
+    - ar_name: حاسي الرمل
+      name: Hassi R'mel
+    - ar_name: الأغواط
+      name: Laghouat
+    - ar_name: وادي مرة
+      name: Oued Morra
+
+id: 4
+  translations:
+    name: Oum El Bouaghi
+    ar_name: أم البواقي
+  dairas:
+    - ar_name: عين ببوش
+      name: Ain Babouche
+    - ar_name: عين البيضاء
+      name: Ain Beida
+    - ar_name: عين فكرون
+      name: Ain Fekroun
+    - ar_name: عين كرشة
+      name: Ain Kercha
+    - ar_name: عين مليلة
+      name: Ain M'lila
+    - ar_name: أم البواقي
+      name: Oum El Bouaghi
+    - ar_name: مسكيانة
+      name: Meskiana
+    - ar_name: سوق نعمان
+      name: Souk Naamane
+    - ar_name: الضلعة
+      name: Dhalaa
+    -  ar_name: سيقوس
+      name: Sigus
+    -  ar_name: فكيرينة
+      name: F'kirina
+    -  ar_name: قصر الصباحي
+      name: Ksar Sbahi
+
+
+id: 5
+  translations:
+    name: Batna
+    ar_name: باتنة
+  dairas:
+    - ar_name: عين جاسر
+      name: Ain Djasser
+    - ar_name: عين التوتة
+      name: Ain Touta
+    - ar_name: المعذر
+      name: El Madher
+    - ar_name: أريس
+      name: Arris
+    - ar_name: الجزار
+      name: Djezzar
+    - ar_name: بريكة
+      name: Barika
+    - ar_name: باتنة
+      name: Batna
+    - ar_name: الشمرة
+      name: Chemora
+    - ar_name: نقاوس
+      name: N'gaous
+    - ar_name: بوزينة
+      name: Bouzina
+    - ar_name: ثنية العابد
+      name: Theniet El Abed
+    - ar_name: إشمول
+      name: Ichemoul
+    - ar_name: تكوت
+      name: Tkout
+    - ar_name: رأس العيون
+      name: Ras El Aioun
+    - ar_name: مروانة
+      name: Merouana
+    - ar_name: سريانة
+      name: Seriana
+    - ar_name: أولاد سي سليمان
+      name: Ouled Si Slimane
+    - ar_name: منعة
+      name: Menaa
+    - ar_name: تيمقاد
+      name: Timgad
+    - ar_name: تازولت
+      name: Tazoult
+    - ar_name: سقانة
+      name: Seggana
+
+id: 6
+  translations:
+    name: Béjaïa
+    ar_name: بجاية
+  dairas:
+    - ar_name: أدكار
+      name: Adekar
+    - ar_name: إغيل علي
+      name: Ighil Ali
+    - ar_name: درقينة
+      name: Darguina
+    - ar_name: أقبو
+      name: Akbou
+    - ar_name: شميني
+      name: Chemini
+    - ar_name: صدوق
+      name: Seddouk
+    - ar_name: أميزور
+      name: Amizour
+    - ar_name: برباشة
+      name: Barbacha
+    - ar_name: أوقاس
+      name: Aokas
+    - ar_name: بجاية
+      name: Bejaia
+    - ar_name: تازملت
+      name: Tazmalt
+    - ar_name: بني معوش
+      name: Beni Maouche
+    - ar_name: تيشي
+      name: Tichy
+    - ar_name: خراطة
+      name: Kherrata
+    - ar_name: سيدي عيش
+      name: Sidi Aich
+    - ar_name: القصر
+      name: El Kseur
+    - ar_name: إفري أوزلاقن
+      name: Ifri Ouzellaguene
+    - ar_name: سوق الإثنين
+      name: Souk El Tenine
+    - ar_name: تيمزريت
+      name: Timezrit
+
+id: 7
+  translations:
+    name: Biskra
+    ar_name: بسكرة
+  dairas:
+    - ar_name: سيدي عقبة
+      name: Sidi Okba
+    - ar_name: القنطرة
+      name: El Kantara
+    - ar_name: بسكرة
+      name: Biskra
+    - ar_name: طولقة
+      name: Tolga
+    - ar_name: جمورة
+      name: Djemorah
+    - ar_name: زريبة الوادي
+      name: Zeribet El Oued
+    - ar_name: فوغالة
+      name: Foughala
+    - ar_name: الوطاية
+      name: El Outaya
+    - ar_name: أورلال
+      name: Ourlal
+    - ar_name: مشونش
+      name: Mechouneche
+
+id: 8
+  translations:
+    name: Bechar
+    ar_name: بشار
+  dairas:
+    - ar_name: العبادلة
+      name: Abadla
+    - ar_name: بشار
+      name: Bechar
+    - ar_name: بني ونيف
+      name: Beni Ounif
+    - ar_name: لحمر
+      name: Lahmar
+    - ar_name: القنادسة
+      name: Kenadsa
+    - ar_name: تبلبالة
+      name: Tabelbala
+    - ar_name: تاغيت
+      name: Taghit
+    
+
+
+id: 9
+  translations:
+    name: Blida
+    ar_name: البليدة
+  dairas:
+  - ar_name: موزاية
+    name: Mouzaia
+  - ar_name: أولاد يعيش
+    name: Ouled Yaich
+  - ar_name: وادي العلايق
+    name: Oued El Alleug
+  - ar_name: البليدة
+    name: Blida
+  - ar_name: بوفاريك
+    name: Boufarik
+  - ar_name: بوقرة
+    name: Bougara
+  - ar_name: بوعينان
+    name: Bouinan
+  - ar_name: مفتاح
+    name: Meftah
+  - ar_name: العفرون
+    name: El Affroun
+  - ar_name: الأربعاء
+    name: Larbaa
+
+id: 10
+  translations:
+    name: Bouira
+    ar_name: البويرة
+  dairas:
+    - ar_name: مشد الله
+      name: M'chedallah
+    - ar_name: بشلول
+      name: Bechloul
+    - ar_name: عين بسام
+      name: Ain Bessem
+    - ar_name: البويرة
+      name: Bouira
+    - ar_name: القادرية
+      name: Kadiria
+    - ar_name: برج أوخريص
+      name: Bordj Okhriss
+    - ar_name: بئر غبالو
+      name: Bir Ghbalou
+    - ar_name: الأخضرية
+      name: Lakhdaria
+    - ar_name: سور الغزلان
+      name: Sour El Ghozlane
+    - ar_name: الهاشمية
+      name: El Hachimia
+    - ar_name: سوق الخميس
+      name: Souk El Khemis
+    - ar_name: الحيزر
+      name: Haizer
+
+id: 11
+  translations:
+    name: Tamanrasset
+    ar_name: تمنراست
+  dairas:
+    - ar_name: سيلت
+      name: Silet
+    - ar_name: تمنراست
+      name: Tamanrasset
+    - ar_name: تاظروك
+      name: Tazrouk
+
+id: 12
+  translations:
+    name: Tbessa
+    ar_name: تبسة
+  dairas:
+    - ar_name: الونزة
+      name: Ouenza
+    - ar_name: العقلة
+      name: El Ogla
+    - ar_name: الكويف
+      name: El Kouif
+    - ar_name: مرسط
+      name: Morsott
+    - ar_name: بئر مقدم
+      name: Bir Mokadem
+    - ar_name: بئر العاتر
+      name: Bir El Ater
+    - ar_name: العوينات
+      name: El Aouinet
+    - ar_name: الشريعة
+      name: Cheria
+    - ar_name: الماء الابيض
+      name: El Malabiod
+    - ar_name: نقرين
+      name: Negrine
+    - ar_name: أم علي
+      name: Oum Ali
+    - ar_name: تبسة
+      name: Tebessa
+
+
+id: 13
+  translations:
+    name: Tlemcen
+    ar_name: تلمسان
+  dairas:
+    - ar_name: فلاوسن
+      name: Fellaoucene
+    - ar_name: شتوان
+      name: Chetouane
+    - ar_name: منصورة
+      name: Mansourah
+    - ar_name: عين تالوت
+      name: Ain Tellout
+    - ar_name: الرمشي
+      name: Remchi
+    - ar_name: باب العسة
+      name: Bab El Assa
+    - ar_name: بني سنوس
+      name: Beni Snous
+    - ar_name: بني بوسعيد
+      name: Beni Boussaid
+    - ar_name: هنين
+      name: Honnaine
+    - ar_name: أولاد ميمون
+      name: Ouled Mimoun
+    - ar_name: بن سكران
+      name: Bensekrane
+    - ar_name: صبرة
+      name: Sabra
+    - ar_name: سيدي الجيلالي
+      name: Sidi Djillali
+    - ar_name: الغزوات
+      name: Ghazaouet
+    - ar_name: ندرومة
+      name: Nedroma
+    - ar_name: سبدو
+      name: Sebdou
+    - ar_name: مغنية
+      name: Maghnia
+    - ar_name: الحناية
+      name: Hennaya
+    - ar_name: مرسى بن مهيدي
+      name: Marsa Ben Mehdi
+    - ar_name: تلمسان
+      name: Tlemcen
+
+id: 14
+  translations:
+    name: Tiaret
+    ar_name: تيارت
+  dairas:
+    - ar_name: دحموني
+      name: Dahmouni
+    - ar_name: عين الذهب
+      name: Ain Deheb
+    - ar_name: مهدية
+      name: Mahdia
+    - ar_name: فرندة
+      name: Frenda
+    - ar_name: عين كرمس
+      name: Ain Kermes
+    - ar_name: حمادية
+      name: Hamadia
+    - ar_name: مشرع الصفا
+      name: Mechraa Sfa
+    - ar_name: السوقر
+      name: Sougueur
+    - ar_name: رحوية
+      name: Rahouia
+    - ar_name: قصر الشلالة
+      name: Ksar Chellala
+    - ar_name: مدروسة
+      name: Medroussa
+    - ar_name: مغيلة
+      name: Meghila
+    - ar_name: وادي ليلي
+      name: Oued Lili
+    - ar_name: تيارت
+      name: Tiaret
+
+
+id: 15
+  translations:
+    name: Tizi Ouzou
+    ar_name: تيزي وزو'
+  dairas:
+    - ar_name: عين الحمام
+      name: Ain El Hammam
+    - ar_name: أزفون
+      name: Azeffoun
+    - ar_name: واضية
+      name: Ouadhias
+    - ar_name: ذراع الميزان
+      name: Draa El Mizan
+    - ar_name: الأربعاء ناث إيراثن
+      name: Larbaa Nath Iraten
+    - ar_name: واسيف
+      name: Ouacif
+    - ar_name: مقلع
+      name: Mekla
+    - ar_name: واقنون
+      name: Ouaguenoun
+    - ar_name: بني دوالة
+      name: Beni Douala
+    - ar_name: تيزي راشد
+      name: Tizi Rached
+    - ar_name: بوغني
+      name: Boghni
+    - ar_name: عزازقة
+      name: Azazga
+    - ar_name: بني يني
+      name: Benni Yenni
+    - ar_name: بوزقن
+      name: Bouzeguene
+    - ar_name: ماكودة
+      name: Makouda
+    - ar_name: ذراع بن خدة
+      name: Draa Ben Khedda
+    - ar_name: إفرحونان
+      name: Iferhounene
+    - ar_name: تيقزيرت
+      name: Tigzirt
+    - ar_name: معاتقة
+      name: Maatkas
+    - ar_name: تيزي غنيف
+      name: Tizi-Ghenif
+    - ar_name: تيزي وزو
+      name: Tizi Ouzou
+
+id: 16
+  translations:
+    name: Alger
+    ar_name: الجزائر
+  dairas:
+    - ar_name: الشراقة
+      name: Cheraga
+    - ar_name: الدار البيضاء
+      name: Dar El Beida
+    - ar_name: سيدي امحمد
+      name: Sidi M'hamed
+    - ar_name: باب الوادي
+      name: Bab El Oued
+    - ar_name: الدرارية
+      name: Draria
+    - ar_name: الحراش
+      name: El Harrach
+    - ar_name: براقي
+      name: Baraki
+    - ar_name: بوزريعة
+      name: Bouzareah
+    - ar_name: بئر مراد رايس
+      name: Bir Mourad Rais
+    - ar_name: بئر توتة
+      name: Birtouta
+    - ar_name: حسين داي
+      name: Hussein Dey
+    - ar_name: الرويبة
+      name: Rouiba
+    - ar_name: زرالدة
+      name: Zeralda
+
+id: 17
+  translations:
+    name: Djelfa
+    ar_name: الجلفة
+  dairas:
+    - ar_name: الادريسية
+      name: El Idrissia
+    - ar_name: عين الإبل
+      name: Ain El Ibel
+    - ar_name: حد الصحاري
+      name: Had Sahary
+    - ar_name: حاسي بحبح
+      name: Hassi Bahbah
+    - ar_name: عين وسارة
+      name: Ain Oussera
+    - ar_name: فيض البطمة
+      name: Faidh El Botma
+    - ar_name: بيرين
+      name: Birine
+    - ar_name: الشارف
+      name: Charef
+    - ar_name: دار الشيوخ
+      name: Dar Chioukh
+    - ar_name: مسعد
+      name: Messaad
+    - ar_name: الجلفة
+      name: Djelfa
+    - ar_name: سيدي لعجال
+      name: Sidi Laadjel
+
+id: 18
+  translations:
+    name: Jijel
+    ar_name: جيجل
+  dairas:
+    - ar_name: الشقفة
+      name: Chekfa
+    - ar_name: جيملة
+      name: Djimla
+    - ar_name: العنصر
+      name: El Ancer
+    - ar_name: العوانة
+      name: El Aouana
+    - ar_name: الميلية
+      name: El Milia
+    - ar_name: زيامة منصورية
+      name: Ziamah Mansouriah
+    - ar_name: السطارة
+      name: Settara
+    - ar_name: جيجل
+      name: Jijel
+    - ar_name: تاكسنة
+      name: Texenna
+    - ar_name: سيدي معروف
+      name: Sidi Marouf
+    - ar_name: الطاهير
+      name: Taher
+
+id: 19
+  translations:
+    name: Setif
+    ar_name: سطيف
+  dairas:
+    - ar_name: عين أرنات
+      name: Ain Arnat
+    - ar_name: عين أزال
+      name: Ain Azel
+    - ar_name: عين الكبيرة
+      name: Ain El Kebira
+    - ar_name: عين ولمان
+      name: Ain Oulmene
+    - ar_name: بني ورتيلان
+      name: Beni Ourtilane
+    - ar_name: بوقاعة
+      name: Bougaa
+    - ar_name: بني عزيز
+      name: Beni Aziz
+    - ar_name: بوعنداس
+      name: Bouandas
+    - ar_name: عموشة
+      name: Amoucha
+    - ar_name: بابور
+      name: Babor
+    - ar_name: العلمة
+      name: El Eulma
+    - ar_name: بئر العرش
+      name: Bir El Arch
+    - ar_name: جميلة
+      name: Djemila
+    - ar_name: صالح باي
+      name: Salah Bey
+    - ar_name: حمام قرقور
+      name: Hammam Guergour
+    - ar_name: قنزات
+      name: Guenzet
+    - ar_name: قجال
+      name: Guidjel
+    - ar_name: حمام السخنة
+      name: Hammam Sokhna
+    - ar_name: ماوكلان
+      name: Maoklane
+    - ar_name: سطيف
+      name: Setif
+
+id: 20
+  translations:
+    name: Saïda
+    ar_name: سعيدة
+  dairas:
+    - ar_name: عين الحجر
+      name: Ain El Hadjar
+    - ar_name: الحساسنة
+      name: El Hassasna
+    - ar_name: أولاد ابراهيم
+      name: Ouled Brahim
+    - ar_name: يوب
+      name: Youb
+    - ar_name: سيدي بوبكر
+      name: Sidi Boubekeur
+    - ar_name: سعيدة
+      name: Saida
+
+id: 21
+  translations:
+    name: Skikda
+    ar_name: سكيكدة
+  dairas:
+    - ar_name: سيدي مزغيش
+      name: Sidi Mezghiche
+    - ar_name: عزابة
+      name: Azzaba
+    - ar_name: عين قشرة
+      name: Ain Kechra
+    - ar_name: الحدائق
+      name: El Hadaiek
+    - ar_name: بن عزوز
+      name: Ben Azzouz
+    - ar_name: رمضان جمال
+      name: Ramdane Djamel
+    - ar_name: القل
+      name: Collo
+    - ar_name: تمالوس
+      name: Tamalous
+    - ar_name: الحروش
+      name: El Harrouch
+    - ar_name: سكيكدة
+      name: Skikda
+    - ar_name: الزيتونة
+      name: Zitouna
+    - ar_name: أولاد عطية
+      name: Ouled Attia
+    - ar_name: أم الطوب
+      name: Oum Toub
+
+id: 22
+  translations:
+    name: Sidi Bel Abbes
+    ar_name: سيدي بلعباس
+  dairas:
+    - ar_name: عين البرد
+      name: Ain El Berd
+    - ar_name: سيدي علي بوسيدي
+      name: Sidi Ali Boussidi
+    - ar_name: تسالة
+      name: Tessala
+    - ar_name: مولاي سليسن
+      name: Moulay Slissen
+    - ar_name: سفيزف
+      name: Sfisef
+    - ar_name: سيدي لحسن
+      name: Sidi Lahcene
+    - ar_name: بن باديس
+      name: Ben Badis
+    - ar_name: مصطفى بن ابراهيم
+      name: Mostefa Ben Brahim
+    - ar_name: تنيرة
+      name: Tenira
+    - ar_name: مرحوم
+      name: Marhoum
+    - ar_name: سيدي علي بن يوب
+      name: Sidi Ali Ben Youb
+    - ar_name: تلاغ
+      name: Telagh
+    - ar_name: مرين
+      name: Merine
+    - ar_name: راس الماء
+      name: Ras El Ma
+    - ar_name: سيدي بلعباس
+      name: Sidi Bel Abbes
+
+id: 23
+  translations:
+    name: Annaba
+    ar_name: عنابة
+dairas:
+  - ar_name: عين الباردة
+    name: Ain El Berda
+  - ar_name: عنابة
+    name: Annaba
+  - ar_name: برحال
+    name: Berrahal
+  - ar_name: شطايبي
+    name: Chetaibi
+  - ar_name: البوني
+    name: El Bouni
+  - ar_name: الحجار
+    name: El Hadjar
+
+id: 24
+  translations:
+    name: Guelma
+    ar_name: قالمة
+  dairas:
+    - ar_name: بوشقوف
+      name: Bouchegouf
+    - ar_name: عين مخلوف
+      name: Ain Makhlouf
+    - ar_name: وادي الزناتي
+      name: Oued Zenati
+    - ar_name: خزارة
+      name: Khezaras
+    - ar_name: قلعة بوصبع
+      name: Guelaat Bousbaa
+    - ar_name: قالمة
+      name: Guelma
+    - ar_name: حمام دباغ
+      name: Hammam Debagh
+    - ar_name: هيليوبوليس
+      name: Heliopolis
+    - ar_name: حمام النبايل
+      name: Hammam N'bails
+    - ar_name: عين حساينية
+      name: Ain Hessainia
+
+id: 25
+  translations:
+    name: Constantine
+    ar_name: قسنطينة
+  dairas:
+    - ar_name: عين عبيد
+      name: Ain Abid
+    - ar_name: الخروب
+      name: El Khroub
+    - ar_name: زيغود يوسف
+      name: Zighoud Youcef
+    - ar_name: قسنطينة
+      name: Constantine
+    - ar_name: حامة بوزيان
+      name: Hamma Bouziane
+    - ar_name: ابن زياد
+      name: Ibn Ziad
+
+id: 26
+  translations:
+    name: Medea
+    ar_name: المدية
+  dairas:
+    - ar_name: عين بوسيف
+      name: Ain Boucif
+    - ar_name: شلالة العذاورة
+      name: Chellalat El Adhaoura
+    - ar_name: تابلاط
+      name: Tablat
+    - ar_name: عزيز
+      name: Aziz
+    - ar_name: العمارية
+      name: El Omaria
+    - ar_name: وزرة
+      name: Ouzera
+    - ar_name: بني سليمان
+      name: Beni Slimane
+    - ar_name: البرواقية
+      name: Berrouaghia
+    - ar_name: القلب الكبير
+      name: Guelb El Kebir
+    - ar_name: أولاد عنتر
+      name: Ouled Antar
+    - ar_name: سي المحجوب
+      name: Si Mahdjoub
+    - ar_name: الشهبونية
+      name: Chahbounia
+    - ar_name: سيدي نعمان
+      name: Sidi Naamane
+    - ar_name: السواقي
+      name: Souaghi
+    - ar_name: المدية
+      name: Medea
+    - ar_name: العزيزية
+      name: El Azizia
+    - ar_name: عوامري
+      name: Ouamri
+    - ar_name: قصر البخاري
+      name: Ksar El Boukhari
+    - ar_name: سغوان
+      name: Seghouane
+
+id: 27
+  translations:
+    name: Mostaganem
+    ar_name: مستغانم
+  dairas:
+    - ar_name: عشعاشة
+      name: Achaacha
+    - ar_name: خير الدين
+      name: Kheir Eddine
+    - ar_name: عين نويسي
+      name: Ain Nouicy
+    - ar_name: ماسرة
+      name: Mesra
+    - ar_name: عين تادلس
+      name: Ain Tedeles
+    - ar_name: سيدي لخضر
+      name: Sidi Lakhdar
+    - ar_name: بوقيراط
+      name: Bouguirat
+    - ar_name: حاسي ماماش
+      name: Hassi Mameche
+    - ar_name: مستغانم
+      name: Mostaganem
+    - ar_name: سيدي علي
+      name: Sidi Ali
+
+
+id: 28
+  translations:
+    name: MSila
+    ar_name: المسيلة
+  dairas:
+    - ar_name: عين الحجل
+      name: Ain El Hadjel
+    - ar_name: عين الملح
+      name: Ain El Melh
+    - ar_name: بن سرور
+      name: Ben Srour
+    - ar_name: مقرة
+      name: Magra
+    - ar_name: سيدي عيسى
+      name: Sidi Aissa
+    - ar_name: أولاد سيدي ابراهيم
+      name: Ouled Sidi Brahim
+    - ar_name: بوسعادة
+      name: Bousaada
+    - ar_name: شلال
+      name: Chellal
+    - ar_name: خبانة
+      name: Khoubana
+    - ar_name: جبل مساعد
+      name: Djebel Messaad
+    - ar_name: حمام الضلعة
+      name: Hammam Dalaa
+    - ar_name: أولاد دراج
+      name: Ouled Derradj
+    - ar_name: امجدل
+      name: Medjedel
+    - ar_name: المسيلة
+      name: M'sila
+    - ar_name: سيدي عامر
+      name: Sidi Ameur
+
+
+id: 29
+  translations:
+    name: Mascara
+    ar_name: معسكر
+  dairas:
+    - ar_name: عين فارس
+      name: Ain Fares
+    - ar_name: عين فكان
+      name: Ain Fekan
+    - ar_name: وادي الأبطال
+      name: Oued El Abtal
+    - ar_name: عقاز
+      name: Oggaz
+    - ar_name: عوف
+      name: Aouf
+    - ar_name: سيق
+      name: Sig
+    - ar_name: بوحنيفية
+      name: Bouhanifia
+    - ar_name: البرج
+      name: El Bordj
+    - ar_name: زهانة
+      name: Zahana
+    - ar_name: المحمدية
+      name: Mohammadia
+    - ar_name: الحشم
+      name: Hachem
+    - ar_name: تيزي
+      name: Tizi
+    - ar_name: غريس
+      name: Ghriss
+    - ar_name: وادي التاغية
+      name: Oued Taria
+    - ar_name: معسكر
+      name: Mascara
+    - ar_name: تيغنيف
+      name: Tighennif
+
+id: 30
+  translations:
+    name: Ouargla
+    ar_name: ورقلة
+  dairas:
+    - ar_name: سيدي خويلد
+      name: Sidi Khouiled
+    - ar_name: البرمة
+      name: El Borma
+    - ar_name: حاسي مسعود
+      name: Hassi Messaoud
+    - ar_name: انقوسة
+      name: N'goussa
+    - ar_name: ورقلة
+      name: Ouargla
+
+
+id: 31
+  translations:
+    name: Oran
+    ar_name: وهران
+  dairas:
+    - ar_name: بطيوة
+      name: Bethioua
+    - ar_name: بوتليليس
+      name: Boutlelis
+    - ar_name: عين الترك
+      name: Ain Turk
+    - ar_name: أرزيو
+      name: Arzew
+    - ar_name: قديل
+      name: Gdyel
+    - ar_name: بئر الجير
+      name: Bir El Djir
+    - ar_name: وادي تليلات
+      name: Oued Tlelat
+    - ar_name: السانية
+      name: Es Senia
+    - ar_name: وهران
+      name: Oran
+
+id: 32
+  translations:
+    name: El Bayadh
+    ar_name: البيض
+  dairas:
+    - ar_name: الأبيض سيدي الشيخ
+      name: Labiodh Sidi Cheikh
+    - ar_name: بوعلام
+      name: Boualem
+    - ar_name: بوقطب
+      name: Bougtoub
+    - ar_name: بوسمغون
+      name: Boussemghoun
+    - ar_name: بريزينة
+      name: Brezina
+    -  ar_name: رقاصة
+      name: Rogassa
+    - ar_name: شلالة
+      name: Chellala
+    - ar_name: البيض
+      name: El Bayadh
+
+id: 33
+  translations:
+    name: Illizi
+    ar_name: إليزي
+  dairas:
+    - ar_name: إن أمناس
+      name: In Amenas
+    - ar_name: إيليزي
+      name: Illizi
+
+id: 34
+  translations:
+    name: Bordj Bou Arreridj
+    ar_name: برج بوعريريج
+  dairas:
+    - ar_name: عين تاغروت
+      name: Ain Taghrout
+    - ar_name: رأس الوادي
+      name: Ras El Oued
+    - ar_name: برج بوعريريج
+      name: Bordj Bou Arreridj
+    - ar_name: المنصورة
+      name: Mansourah
+    - ar_name: برج الغدير
+      name: Bordj Ghedir
+    - ar_name: بئر قاصد علي
+      name: Bir Kasdali
+    - ar_name: برج زمورة
+      name: Bordj Zemmoura
+    - ar_name: جعافرة
+      name: Djaafra
+    -  ar_name: الحمادية
+      name: El Hamadia
+    - ar_name: مجانة
+      name: Medjana
+
+id: 35
+  translations:
+    name: Boumerdes
+    ar_name: بومرداس
+  dairas:
+    - ar_name: دلس
+      name: Dellys
+    - ar_name: الثنية
+      name: Thenia
+    - ar_name: بغلية
+      name: Baghlia
+    - ar_name: برج منايل
+      name: Bordj Menaiel
+    - ar_name: بودواو
+      name: Boudouaou
+    - ar_name: بومرداس
+      name: Boumerdes
+    - ar_name: يسر
+      name: Isser
+    - ar_name: خميس الخشنة
+      name: Khemis El Khechna
+    - ar_name: الناصرية
+      name: Naciria
+
+id: 36
+  translations:
+    name: El Tarf
+    ar_name: الطارف
+  dairas:
+    - ar_name: الطارف
+      name: El Tarf
+    - ar_name: بوحجار
+      name: Bouhadjar
+    - ar_name: البسباس
+      name: Besbes
+    - ar_name: بن مهيدي
+      name: Ben M'hidi
+    - ar_name: بوثلجة
+      name: Bouteldja
+    - ar_name: الذرعان
+      name: Drean
+    - ar_name: القالة
+      name: El Kala
+
+id: 37
+  translations:
+    name: Tindouf
+    ar_name: تندوف
+  dairas:
+    - ar_name: تندوف
+      name: Tindouf
+
+id: 38
+  translations:
+    name: Tissemsilt
+    ar_name: تيسمسيلت
+  dairas:
+    - ar_name: عماري
+      name: Ammari
+    - ar_name: برج بونعامة
+      name: Bordj Bounaama
+    - ar_name: برج الأمير عبد القادر
+      name: Bordj Emir Abdelkader
+    - ar_name: الأزهرية
+      name: Lazharia
+    - ar_name: خميستي
+      name: Khemisti
+    - ar_name: لرجام
+      name: Lardjem
+    - ar_name: تيسمسيلت
+      name: Tissemsilt
+    - ar_name: ثنية الاحد
+      name: Theniet El Had
+
+id: 39
+  translations:
+    name: El Oued
+    ar_name: الوادي
+  dairas:
+    - ar_name: البياضة
+    name: Bayadha
+    - ar_name: الطالب العربي
+    name: Taleb Larbi
+    - ar_name: الدبيلة
+    name: Debila
+    - ar_name: الرباح
+    name: Robbah
+    - ar_name: الوادي
+    name: El Oued
+    - ar_name: قمار
+    name: Guemar
+    - ar_name: الرقيبة
+    name: Reguiba
+    - ar_name: حاسي خليفة
+    name: Hassi Khalifa
+    - ar_name: المقرن
+    name: Magrane
+    - ar_name: اميه وانسة
+    name: Mih Ouensa
+
+id: 40
+  translations:
+    name: Khenchela
+    ar_name: خنشلة
+  dairas:
+    - ar_name: عين الطويلة
+    name: Ain Touila
+    - ar_name: بابار
+    name: Babar
+    - ar_name: الحامة
+    name: El Hamma
+    - ar_name: بوحمامة
+    name: Bouhmama
+    - ar_name: ششار
+    name: Chechar
+    - ar_name: أولاد رشاش
+    name: Ouled Rechache
+    - ar_name: قايس
+    name: Kais
+    - ar_name: خنشلة
+    name: Khenchela
+
+id: 41
+  translations:
+    name: Souk Ahras
+    ar_name: سوق أهراس
+  dairas:
+    - ar_name: سدراتة
+      name: Sedrata
+    - ar_name: أولاد إدريس
+      name: Ouled Driss
+    - ar_name: بئر بوحوش
+      name: Bir Bouhouche
+    - ar_name: الحدادة
+      name: Haddada
+    - ar_name: تاورة
+      name: Taoura
+    - ar_name: المشروحة
+      name: Mechroha
+    - ar_name: مداوروش
+      name: M'daourouche
+    - ar_name: أم العظايم
+      name: Oum El Adhaim
+    - ar_name: سوق أهراس
+      name: Souk Ahras
+    - ar_name: المراهنة
+      name: Merahna
+
+id: 42
+  translations:
+    name: Tipaza
+    ar_name: تيبازة
+  dairas:
+    - ar_name: قوراية
+      name: Gouraya
+    - ar_name: أحمر العين
+      name: Ahmar El Ain
+    - ar_name: بواسماعيل
+      name: Bou Ismail
+    - ar_name: القليعة
+      name: Kolea
+    - ar_name: الداموس
+      name: Damous
+    - ar_name: شرشال
+      name: Cherchell
+    - ar_name: فوكة
+      name: Fouka
+    - ar_name: حجوط
+      name: Hadjout
+    - ar_name: سيدي أعمر
+      name: Sidi Amar
+    - ar_name: تيبازة
+      name: Tipaza
+
+id: 43
+  translations:
+    name: Mila
+    ar_name: ميلة
+  dairas:
+    - ar_name: وادي النجاء
+      name: Oued Endja
+    - ar_name: عين البيضاء أحريش
+      name: Ain Beida Harriche
+    - ar_name: شلغوم العيد
+      name: Chelghoum Laid
+    - ar_name: ميلة
+      name: Mila
+    - ar_name: ترعي باينان
+      name: Terrai Bainen
+    - ar_name: تاجنانت
+      name: Tadjenanet
+    - ar_name: بوحاتم
+      name: Bouhatem
+    - ar_name: سيدي مروان
+      name: Sidi Merouane
+    - ar_name: التلاغمة
+      name: Teleghma
+    - ar_name: فرجيوة
+      name: Ferdjioua
+    - ar_name: القرارم قوقة
+      name: Grarem Gouga
+    - ar_name: تسدان حدادة
+      name: Tassadane Haddada
+    - ar_name: الرواشد
+      name: Rouached
+
+id: 44
+  translations:
+    name: Ain Defla
+    ar_name: عين الدفلى
+  dairas:
+    - ar_name: حمام ريغة
+      name: Hammam Righa
+    - ar_name: عين الدفلى
+      name: Ain Defla
+    - ar_name: العبادية
+      name: El Abadia
+    - ar_name: عين الاشياخ
+      name: Ain Lechiakh
+    - ar_name: العامرة
+      name: El Amra
+    - ar_name: جندل
+      name: Djendel
+    - ar_name: بطحية
+      name: Bathia
+    - ar_name: مليانة
+      name: Miliana
+    - ar_name: برج الأمير خالد
+      name: Bordj El Emir Khaled
+    - ar_name: بومدفع
+      name: Boumedfaa
+    - ar_name: جليدة
+      name: Djelida
+    - ar_name: العطاف
+      name: El Attaf
+    - ar_name: الروينة
+      name: Rouina
+    - ar_name: خميس
+      name: Khemis
+
+id: 45
+  translations:
+    name: Naama
+    ar_name: النعامة
+  dairas:
+    - ar_name: المشرية
+      name: Mecheria
+    - ar_name: عين الصفراء
+      name: Ain Sefra
+    - ar_name: عسلة
+      name: Asla
+    - ar_name: مغرار
+      name: Moghrar
+    - ar_name: مكمن بن عمار
+      name: Mekmen Ben Amar
+    - ar_name: النعامة
+      name: Naama
+    - ar_name: سفيسيفة
+      name: Sfissifa
+
+id: 46
+  translations:
+    name: Ain Temouchent
+    ar_name: عين تموشنت
+  dairas:
+    - ar_name: عين الكيحل
+    name: Ain Kihel
+    - ar_name: عين الأربعاء
+    name: Ain Larbaa
+    - ar_name: عين تموشنت
+    name: Ain Temouchent
+    - ar_name: بني صاف
+    name: Beni Saf
+    - ar_name: العامرية
+    name: El Amria
+    - ar_name: المالح
+    name: El Maleh
+    - ar_name: حمام بوحجر
+    name: Hammam Bou Hadjar
+    - ar_name: ولهاصة الغرابة
+    name: Oulhassa Gheraba
+
+id: 47
+  translations:
+    name: Ghardaia
+    ar_name: غرداية
+  dairas:
+    - ar_name: بريان
+      name: Berriane
+    - ar_name: بونورة
+      name: Bounoura
+    - ar_name: ضاية بن ضحوة
+      name: Dhayet Ben Dhahoua
+    - ar_name: زلفانة
+      name: Zelfana
+    - ar_name: غرداية
+      name: Ghardaia
+    - ar_name: القرارة
+      name: El Guerrara
+    - ar_name: المنصورة
+      name: Mansourah
+    - ar_name: متليلي
+      name: Metlili
+
+id: 48
+  translations:
+    name: Relizane
+    ar_name: غليزان
+  dairas:
+    - ar_name: يلل
+    name: Yellel
+    - ar_name: عين طارق
+    name: Ain Tarek
+    - ar_name: عمي موسى
+    name: Ammi Moussa
+    - ar_name: المطمر
+    name: El Matmar
+    - ar_name: غليزان
+    name: Relizane
+    - ar_name: زمورة
+    name: Zemmoura
+    - ar_name: سيدي أمحمد بن علي
+    name: Sidi M'hamed Ben Ali
+    - ar_name: جديوية
+    name: Djidiouia
+    - ar_name: الحمادنة
+    name: El H'madna
+    - ar_name: مازونة
+    name: Mazouna
+    - ar_name: وادي رهيو
+    name: Oued Rhiou
+    - ar_name: منداس
+    name: Mendes
+    - ar_name: الرمكة
+    name: Ramka
+
+id: 49
+  translations:
+    name: El M'ghair
+    ar_name: المغير
+  dairas:
+    - ar_name: المغير
+      name: El M'Ghair
+    - ar_name: ﺟﺎﻣﻌﺔ
+      name: Djamaâ
+
+id: 50
+  translations:
+    name: El Meniaa
+    ar_name: المنيعة
+  dairas:
+    - ar_name: منصورة
+      name: Mansoura
+    - ar_name: المنيعة
+      name: El Meniaa
+    
+
+id: 51
+  translations:
+    name: Ouled Djellal
+    ar_name: أولاد جلال
+  dairas:
+
+id: 52
+  translations:
+    name: Bordj Baji Mokhtar
+    ar_name: برج باجي مختار
+  dairas:
+
+id: 53
+  translations:
+    name: Béni Abbès
+    ar_name: بني عباس
+  dairas:
+
+id: 54
+  translations:
+    name: Timimoun
+    ar_name: تيميمون
+  dairas:
+
+id: 55
+  translations:
+    name: Touggourt
+    ar_name: تقرت
+  dairas:
+
+id: 56
+  translations:
+    name: Djanet
+    ar_name: جانت
+  dairas:
+
+id: 57
+  translations:
+    name: In Salah
+    ar_name: عين صالح
+  dairas:
+
+id: 58
+  translations:
+    name: In Guezzam
+    ar_name: عين قزام
+  dairas:
