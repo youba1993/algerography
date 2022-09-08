@@ -1,1409 +1,1501 @@
- --- 
-id: 1
+---
+ -
+  id: 1
   translations:
-    fr: Adrar
-    ar: أدرار
-  dairas:
-    - ar_name: أدرار
-      name: Adrar
-    - ar_name: أولف
-      name: Aoulef
-    - ar_name: فنوغيل
-      name: Fenoughil  
-    - ar_name: زاوية كنتة
-      name: Zaouiat Kounta
-    - ar_name: رقان
-      name: Reggane  
-    - ar_name: تسابيت
-      name: Tsabit  
-
-id: 2
+   fr: Adrar
+   ar: أدرار
+  area: 254471
+  districts:
+    - ar: أدرار
+      fr: Adrar
+    - ar: أولف
+      fr: Aoulef
+    - ar: فنوغيل
+      fr: Fenoughil  
+    - ar: زاوية كنتة
+      fr: Zaouiat Kounta
+    - ar: رقان
+      fr: Reggane  
+    - ar: تسابيت
+      fr: Tsabit  
+ -
+  id: 2
   translations:
-    name: Chlef
-    ar_name: الشلف
-  dairas:
-    - ar_name: أبو الحسن
-      name: Abou El Hassane
-    - ar_name: عين مران
-      name: Ain Merane
-    - ar_name: الزبوجة
-      name: Zeboudja
-    - ar_name: الكريمية
-      name: El Karimia
-    - ar_name: بني حواء
-      name: Beni Haoua
-    - ar_name: وادي الفضة
-      name: Oued Fodda
-    - ar_name: بوقادير
-      name: Boukadir
-    - ar_name: أولاد فارس
-      name: Ouled Fares
-    - ar_name: الشلف
-      name: Chlef
-    - ar_name: تاوقريت
-      name: Taougrit
-    - ar_name: أولاد بن عبد القادر
-      name: Ouled Ben Abdelkader
-    - ar_name: المرسى
-      name: El Marsa
-    - ar_name: تنس
-      name: Tenes
-
-id: 3
+    fr: Chlef
+    ar: الشلف
+  area: 4795
+  districts:
+    - ar: أبو الحسن
+      fr: Abou El Hassane
+    - ar: عين مران
+      fr: Ain Merane
+    - ar: الزبوجة
+      fr: Zeboudja
+    - ar: الكريمية
+      fr: El Karimia
+    - ar: بني حواء
+      fr: Beni Haoua
+    - ar: وادي الفضة
+      fr: Oued Fodda
+    - ar: بوقادير
+      fr: Boukadir
+    - ar: أولاد فارس
+      fr: Ouled Fares
+    - ar: الشلف
+      fr: Chlef
+    - ar: تاوقريت
+      fr: Taougrit
+    - ar: أولاد بن عبد القادر
+      fr: Ouled Ben Abdelkader
+    - ar: المرسى
+      fr: El Marsa
+    - ar: تنس
+      fr: Tenes
+ -
+  id: 3
   translations:
-    name: Laghouat
-    ar_name: الأغواط
-  dairas:
-    - ar_name: أفلو
-      name: Aflou
-    - ar_name: عين ماضي
-      name: Ain Madhi
-    - ar_name: قتلة سيدي سعيد
-      name: Gueltat Sidi Saad
-    - ar_name: قصر الحيران
-      name: Ksar El Hirane
-    - ar_name: بريدة
-      name: Brida
-    - ar_name: سيدي مخلوف
-      name: Sidi Makhlouf
-    - ar_name: الغيشة
-      name: El Ghicha
-    - ar_name: حاسي الرمل
-      name: Hassi R'mel
-    - ar_name: الأغواط
-      name: Laghouat
-    - ar_name: وادي مرة
-      name: Oued Morra
-
-id: 4
+    fr: Laghouat
+    ar: الأغواط
+  area: 25057
+  districts:
+    - ar: أفلو
+      fr: Aflou
+    - ar: عين ماضي
+      fr: Ain Madhi
+    - ar: قتلة سيدي سعيد
+      fr: Gueltat Sidi Saad
+    - ar: قصر الحيران
+      fr: Ksar El Hirane
+    - ar: بريدة
+      fr: Brida
+    - ar: سيدي مخلوف
+      fr: Sidi Makhlouf
+    - ar: الغيشة
+      fr: El Ghicha
+    - ar: حاسي الرمل
+      fr: Hassi R'mel
+    - ar: الأغواط
+      fr: Laghouat
+    - ar: وادي مرة
+      fr: Oued Morra
+ -
+  id: 4
   translations:
-    name: Oum El Bouaghi
-    ar_name: أم البواقي
-  dairas:
-    - ar_name: عين ببوش
-      name: Ain Babouche
-    - ar_name: عين البيضاء
-      name: Ain Beida
-    - ar_name: عين فكرون
-      name: Ain Fekroun
-    - ar_name: عين كرشة
-      name: Ain Kercha
-    - ar_name: عين مليلة
-      name: Ain M'lila
-    - ar_name: أم البواقي
-      name: Oum El Bouaghi
-    - ar_name: مسكيانة
-      name: Meskiana
-    - ar_name: سوق نعمان
-      name: Souk Naamane
-    - ar_name: الضلعة
-      name: Dhalaa
-    -  ar_name: سيقوس
-      name: Sigus
-    -  ar_name: فكيرينة
-      name: F'kirina
-    -  ar_name: قصر الصباحي
-      name: Ksar Sbahi
-
-
-id: 5
+    fr: Oum El Bouaghi
+    ar: أم البواقي
+  area: 6783
+  districts:
+    - ar: عين ببوش
+      fr: Ain Babouche
+    - ar: عين البيضاء
+      fr: Ain Beida
+    - ar: عين فكرون
+      fr: Ain Fekroun
+    - ar: عين كرشة
+      fr: Ain Kercha
+    - ar: عين مليلة
+      fr: Ain M'lila
+    - ar: أم البواقي
+      fr: Oum El Bouaghi
+    - ar: مسكيانة
+      fr: Meskiana
+    - ar: سوق نعمان
+      fr: Souk Naamane
+    - ar: الضلعة
+      fr: Dhalaa
+    - ar: سيقوس
+      fr: Sigus
+    - ar: فكيرينة
+      fr: F'kirina
+    - ar: قصر الصباحي
+      fr: Ksar Sbahi
+ -
+  id: 5
   translations:
-    name: Batna
-    ar_name: باتنة
-  dairas:
-    - ar_name: عين جاسر
-      name: Ain Djasser
-    - ar_name: عين التوتة
-      name: Ain Touta
-    - ar_name: المعذر
-      name: El Madher
-    - ar_name: أريس
-      name: Arris
-    - ar_name: الجزار
-      name: Djezzar
-    - ar_name: بريكة
-      name: Barika
-    - ar_name: باتنة
-      name: Batna
-    - ar_name: الشمرة
-      name: Chemora
-    - ar_name: نقاوس
-      name: N'gaous
-    - ar_name: بوزينة
-      name: Bouzina
-    - ar_name: ثنية العابد
-      name: Theniet El Abed
-    - ar_name: إشمول
-      name: Ichemoul
-    - ar_name: تكوت
-      name: Tkout
-    - ar_name: رأس العيون
-      name: Ras El Aioun
-    - ar_name: مروانة
-      name: Merouana
-    - ar_name: سريانة
-      name: Seriana
-    - ar_name: أولاد سي سليمان
-      name: Ouled Si Slimane
-    - ar_name: منعة
-      name: Menaa
-    - ar_name: تيمقاد
-      name: Timgad
-    - ar_name: تازولت
-      name: Tazoult
-    - ar_name: سقانة
-      name: Seggana
-
-id: 6
+    fr: Batna
+    ar: باتنة
+  area: 12192
+  districts:
+    - ar: عين جاسر
+      fr: Ain Djasser
+    - ar: عين التوتة
+      fr: Ain Touta
+    - ar: المعذر
+      fr: El Madher
+    - ar: أريس
+      fr: Arris
+    - ar: الجزار
+      fr: Djezzar
+    - ar: بريكة
+      fr: Barika
+    - ar: باتنة
+      fr: Batna
+    - ar: الشمرة
+      fr: Chemora
+    - ar: نقاوس
+      fr: N'gaous
+    - ar: بوزينة
+      fr: Bouzina
+    - ar: ثنية العابد
+      fr: Theniet El Abed
+    - ar: إشمول
+      fr: Ichemoul
+    - ar: تكوت
+      fr: Tkout
+    - ar: رأس العيون
+      fr: Ras El Aioun
+    - ar: مروانة
+      fr: Merouana
+    - ar: سريانة
+      fr: Seriana
+    - ar: أولاد سي سليمان
+      fr: Ouled Si Slimane
+    - ar: منعة
+      fr: Menaa
+    - ar: تيمقاد
+      fr: Timgad
+    - ar: تازولت
+      fr: Tazoult
+    - ar: سقانة
+      fr: Seggana
+ -
+  id: 6
   translations:
-    name: Béjaïa
-    ar_name: بجاية
-  dairas:
-    - ar_name: أدكار
-      name: Adekar
-    - ar_name: إغيل علي
-      name: Ighil Ali
-    - ar_name: درقينة
-      name: Darguina
-    - ar_name: أقبو
-      name: Akbou
-    - ar_name: شميني
-      name: Chemini
-    - ar_name: صدوق
-      name: Seddouk
-    - ar_name: أميزور
-      name: Amizour
-    - ar_name: برباشة
-      name: Barbacha
-    - ar_name: أوقاس
-      name: Aokas
-    - ar_name: بجاية
-      name: Bejaia
-    - ar_name: تازملت
-      name: Tazmalt
-    - ar_name: بني معوش
-      name: Beni Maouche
-    - ar_name: تيشي
-      name: Tichy
-    - ar_name: خراطة
-      name: Kherrata
-    - ar_name: سيدي عيش
-      name: Sidi Aich
-    - ar_name: القصر
-      name: El Kseur
-    - ar_name: إفري أوزلاقن
-      name: Ifri Ouzellaguene
-    - ar_name: سوق الإثنين
-      name: Souk El Tenine
-    - ar_name: تيمزريت
-      name: Timezrit
-
-id: 7
+    fr: Béjaïa
+    ar: بجاية
+  area: 3268
+  districts:
+    - ar: أدكار
+      fr: Adekar
+    - ar: إغيل علي
+      fr: Ighil Ali
+    - ar: درقينة
+      fr: Darguina
+    - ar: أقبو
+      fr: Akbou
+    - ar: شميني
+      fr: Chemini
+    - ar: صدوق
+      fr: Seddouk
+    - ar: أميزور
+      fr: Amizour
+    - ar: برباشة
+      fr: Barbacha
+    - ar: أوقاس
+      fr: Aokas
+    - ar: بجاية
+      fr: Bejaia
+    - ar: تازملت
+      fr: Tazmalt
+    - ar: بني معوش
+      fr: Beni Maouche
+    - ar: تيشي
+      fr: Tichy
+    - ar: خراطة
+      fr: Kherrata
+    - ar: سيدي عيش
+      fr: Sidi Aich
+    - ar: القصر
+      fr: El Kseur
+    - ar: إفري أوزلاقن
+      fr: Ifri Ouzellaguene
+    - ar: سوق الإثنين
+      fr: Souk El Tenine
+    - ar: تيمزريت
+      fr: Timezrit
+ -
+  id: 7
   translations:
-    name: Biskra
-    ar_name: بسكرة
-  dairas:
-    - ar_name: سيدي عقبة
-      name: Sidi Okba
-    - ar_name: القنطرة
-      name: El Kantara
-    - ar_name: بسكرة
-      name: Biskra
-    - ar_name: طولقة
-      name: Tolga
-    - ar_name: جمورة
-      name: Djemorah
-    - ar_name: زريبة الوادي
-      name: Zeribet El Oued
-    - ar_name: فوغالة
-      name: Foughala
-    - ar_name: الوطاية
-      name: El Outaya
-    - ar_name: أورلال
-      name: Ourlal
-    - ar_name: مشونش
-      name: Mechouneche
-
-id: 8
+    fr: Biskra
+    ar: بسكرة
+  area: 9576
+  districts:
+    - ar: سيدي عقبة
+      fr: Sidi Okba
+    - ar: القنطرة
+      fr: El Kantara
+    - ar: بسكرة
+      fr: Biskra
+    - ar: طولقة
+      fr: Tolga
+    - ar: جمورة
+      fr: Djemorah
+    - ar: زريبة الوادي
+      fr: Zeribet El Oued
+    - ar: فوغالة
+      fr: Foughala
+    - ar: الوطاية
+      fr: El Outaya
+    - ar: أورلال
+      fr: Ourlal
+    - ar: مشونش
+      fr: Mechouneche
+ -
+  id: 8
   translations:
-    name: Bechar
-    ar_name: بشار
-  dairas:
-    - ar_name: العبادلة
-      name: Abadla
-    - ar_name: بشار
-      name: Bechar
-    - ar_name: بني ونيف
-      name: Beni Ounif
-    - ar_name: لحمر
-      name: Lahmar
-    - ar_name: القنادسة
-      name: Kenadsa
-    - ar_name: تبلبالة
-      name: Tabelbala
-    - ar_name: تاغيت
-      name: Taghit
-    
-
-
-id: 9
+    fr: Bechar
+    ar: بشار
+  area: 60850
+  districts:
+    - ar: العبادلة
+      fr: Abadla
+    - ar: بشار
+      fr: Bechar
+    - ar: بني ونيف
+      fr: Beni Ounif
+    - ar: لحمر
+      fr: Lahmar
+    - ar: القنادسة
+      fr: Kenadsa
+    - ar: تبلبالة
+      fr: Tabelbala
+    - ar: تاغيت
+      fr: Taghit
+ -
+  id: 9
   translations:
-    name: Blida
-    ar_name: البليدة
-  dairas:
-  - ar_name: موزاية
-    name: Mouzaia
-  - ar_name: أولاد يعيش
-    name: Ouled Yaich
-  - ar_name: وادي العلايق
-    name: Oued El Alleug
-  - ar_name: البليدة
-    name: Blida
-  - ar_name: بوفاريك
-    name: Boufarik
-  - ar_name: بوقرة
-    name: Bougara
-  - ar_name: بوعينان
-    name: Bouinan
-  - ar_name: مفتاح
-    name: Meftah
-  - ar_name: العفرون
-    name: El Affroun
-  - ar_name: الأربعاء
-    name: Larbaa
-
-id: 10
+    fr: Blida
+    ar: البليدة
+  area: 1575
+  districts:
+  - ar: موزاية
+    fr: Mouzaia
+  - ar: أولاد يعيش
+    fr: Ouled Yaich
+  - ar: وادي العلايق
+    fr: Oued El Alleug
+  - ar: البليدة
+    fr: Blida
+  - ar: بوفاريك
+    fr: Boufarik
+  - ar: بوقرة
+    fr: Bougara
+  - ar: بوعينان
+    fr: Bouinan
+  - ar: مفتاح
+    fr: Meftah
+  - ar: العفرون
+    fr: El Affroun
+  - ar: الأربعاء
+    fr: Larbaa
+ -
+  id: 10
   translations:
-    name: Bouira
-    ar_name: البويرة
-  dairas:
-    - ar_name: مشد الله
-      name: M'chedallah
-    - ar_name: بشلول
-      name: Bechloul
-    - ar_name: عين بسام
-      name: Ain Bessem
-    - ar_name: البويرة
-      name: Bouira
-    - ar_name: القادرية
-      name: Kadiria
-    - ar_name: برج أوخريص
-      name: Bordj Okhriss
-    - ar_name: بئر غبالو
-      name: Bir Ghbalou
-    - ar_name: الأخضرية
-      name: Lakhdaria
-    - ar_name: سور الغزلان
-      name: Sour El Ghozlane
-    - ar_name: الهاشمية
-      name: El Hachimia
-    - ar_name: سوق الخميس
-      name: Souk El Khemis
-    - ar_name: الحيزر
-      name: Haizer
-
-id: 11
+    fr: Bouira
+    ar: البويرة
+  area: 4439
+  districts:
+    - ar: مشد الله
+      fr: M'chedallah
+    - ar: بشلول
+      fr: Bechloul
+    - ar: عين بسام
+      fr: Ain Bessem
+    - ar: البويرة
+      fr: Bouira
+    - ar: القادرية
+      fr: Kadiria
+    - ar: برج أوخريص
+      fr: Bordj Okhriss
+    - ar: بئر غبالو
+      fr: Bir Ghbalou
+    - ar: الأخضرية
+      fr: Lakhdaria
+    - ar: سور الغزلان
+      fr: Sour El Ghozlane
+    - ar: الهاشمية
+      fr: El Hachimia
+    - ar: سوق الخميس
+      fr: Souk El Khemis
+    - ar: الحيزر
+      fr: Haizer
+ -
+  id: 11
   translations:
-    name: Tamanrasset
-    ar_name: تمنراست
-  dairas:
-    - ar_name: سيلت
-      name: Silet
-    - ar_name: تمنراست
-      name: Tamanrasset
-    - ar_name: تاظروك
-      name: Tazrouk
-
-id: 12
+    fr: Tamanrasset
+    ar: تمنراست
+  area: 336839
+  districts:
+    - ar: سيلت
+      fr: Silet
+    - ar: تمنراست
+      fr: Tamanrasset
+    - ar: تاظروك
+      fr: Tazrouk
+ -
+  id: 12
   translations:
-    name: Tbessa
-    ar_name: تبسة
-  dairas:
-    - ar_name: الونزة
-      name: Ouenza
-    - ar_name: العقلة
-      name: El Ogla
-    - ar_name: الكويف
-      name: El Kouif
-    - ar_name: مرسط
-      name: Morsott
-    - ar_name: بئر مقدم
-      name: Bir Mokadem
-    - ar_name: بئر العاتر
-      name: Bir El Ater
-    - ar_name: العوينات
-      name: El Aouinet
-    - ar_name: الشريعة
-      name: Cheria
-    - ar_name: الماء الابيض
-      name: El Malabiod
-    - ar_name: نقرين
-      name: Negrine
-    - ar_name: أم علي
-      name: Oum Ali
-    - ar_name: تبسة
-      name: Tebessa
-
-
-id: 13
+    fr: Tbessa
+    ar: تبسة
+  area: 14227  
+  districts:
+    - ar: الونزة
+      fr: Ouenza
+    - ar: العقلة
+      fr: El Ogla
+    - ar: الكويف
+      fr: El Kouif
+    - ar: مرسط
+      fr: Morsott
+    - ar: بئر مقدم
+      fr: Bir Mokadem
+    - ar: بئر العاتر
+      fr: Bir El Ater
+    - ar: العوينات
+      fr: El Aouinet
+    - ar: الشريعة
+      fr: Cheria
+    - ar: الماء الابيض
+      fr: El Malabiod
+    - ar: نقرين
+      fr: Negrine
+    - ar: أم علي
+      fr: Oum Ali
+    - ar: تبسة
+      fr: Tebessa
+ -
+  id: 13
   translations:
-    name: Tlemcen
-    ar_name: تلمسان
-  dairas:
-    - ar_name: فلاوسن
-      name: Fellaoucene
-    - ar_name: شتوان
-      name: Chetouane
-    - ar_name: منصورة
-      name: Mansourah
-    - ar_name: عين تالوت
-      name: Ain Tellout
-    - ar_name: الرمشي
-      name: Remchi
-    - ar_name: باب العسة
-      name: Bab El Assa
-    - ar_name: بني سنوس
-      name: Beni Snous
-    - ar_name: بني بوسعيد
-      name: Beni Boussaid
-    - ar_name: هنين
-      name: Honnaine
-    - ar_name: أولاد ميمون
-      name: Ouled Mimoun
-    - ar_name: بن سكران
-      name: Bensekrane
-    - ar_name: صبرة
-      name: Sabra
-    - ar_name: سيدي الجيلالي
-      name: Sidi Djillali
-    - ar_name: الغزوات
-      name: Ghazaouet
-    - ar_name: ندرومة
-      name: Nedroma
-    - ar_name: سبدو
-      name: Sebdou
-    - ar_name: مغنية
-      name: Maghnia
-    - ar_name: الحناية
-      name: Hennaya
-    - ar_name: مرسى بن مهيدي
-      name: Marsa Ben Mehdi
-    - ar_name: تلمسان
-      name: Tlemcen
-
-id: 14
+    fr: Tlemcen
+    ar: تلمسان
+  area: 9061	  
+  districts:
+    - ar: فلاوسن
+      fr: Fellaoucene
+    - ar: شتوان
+      fr: Chetouane
+    - ar: منصورة
+      fr: Mansourah
+    - ar: عين تالوت
+      fr: Ain Tellout
+    - ar: الرمشي
+      fr: Remchi
+    - ar: باب العسة
+      fr: Bab El Assa
+    - ar: بني سنوس
+      fr: Beni Snous
+    - ar: بني بوسعيد
+      fr: Beni Boussaid
+    - ar: هنين
+      fr: Honnaine
+    - ar: أولاد ميمون
+      fr: Ouled Mimoun
+    - ar: بن سكران
+      fr: Bensekrane
+    - ar: صبرة
+      fr: Sabra
+    - ar: سيدي الجيلالي
+      fr: Sidi Djillali
+    - ar: الغزوات
+      fr: Ghazaouet
+    - ar: ندرومة
+      fr: Nedroma
+    - ar: سبدو
+      fr: Sebdou
+    - ar: مغنية
+      fr: Maghnia
+    - ar: الحناية
+      fr: Hennaya
+    - ar: مرسى بن مهيدي
+      fr: Marsa Ben Mehdi
+    - ar: تلمسان
+      fr: Tlemcen
+ -
+  id: 14
   translations:
-    name: Tiaret
-    ar_name: تيارت
-  dairas:
-    - ar_name: دحموني
-      name: Dahmouni
-    - ar_name: عين الذهب
-      name: Ain Deheb
-    - ar_name: مهدية
-      name: Mahdia
-    - ar_name: فرندة
-      name: Frenda
-    - ar_name: عين كرمس
-      name: Ain Kermes
-    - ar_name: حمادية
-      name: Hamadia
-    - ar_name: مشرع الصفا
-      name: Mechraa Sfa
-    - ar_name: السوقر
-      name: Sougueur
-    - ar_name: رحوية
-      name: Rahouia
-    - ar_name: قصر الشلالة
-      name: Ksar Chellala
-    - ar_name: مدروسة
-      name: Medroussa
-    - ar_name: مغيلة
-      name: Meghila
-    - ar_name: وادي ليلي
-      name: Oued Lili
-    - ar_name: تيارت
-      name: Tiaret
-
-
-id: 15
+    fr: Tiaret
+    ar: تيارت
+  area: 20673  
+  districts:
+    - ar: دحموني
+      fr: Dahmouni
+    - ar: عين الذهب
+      fr: Ain Deheb
+    - ar: مهدية
+      fr: Mahdia
+    - ar: فرندة
+      fr: Frenda
+    - ar: عين كرمس
+      fr: Ain Kermes
+    - ar: حمادية
+      fr: Hamadia
+    - ar: مشرع الصفا
+      fr: Mechraa Sfa
+    - ar: السوقر
+      fr: Sougueur
+    - ar: رحوية
+      fr: Rahouia
+    - ar: قصر الشلالة
+      fr: Ksar Chellala
+    - ar: مدروسة
+      fr: Medroussa
+    - ar: مغيلة
+      fr: Meghila
+    - ar: وادي ليلي
+      fr: Oued Lili
+    - ar: تيارت
+      fr: Tiaret
+ -
+  id: 15
   translations:
-    name: Tizi Ouzou
-    ar_name: تيزي وزو'
-  dairas:
-    - ar_name: عين الحمام
-      name: Ain El Hammam
-    - ar_name: أزفون
-      name: Azeffoun
-    - ar_name: واضية
-      name: Ouadhias
-    - ar_name: ذراع الميزان
-      name: Draa El Mizan
-    - ar_name: الأربعاء ناث إيراثن
-      name: Larbaa Nath Iraten
-    - ar_name: واسيف
-      name: Ouacif
-    - ar_name: مقلع
-      name: Mekla
-    - ar_name: واقنون
-      name: Ouaguenoun
-    - ar_name: بني دوالة
-      name: Beni Douala
-    - ar_name: تيزي راشد
-      name: Tizi Rached
-    - ar_name: بوغني
-      name: Boghni
-    - ar_name: عزازقة
-      name: Azazga
-    - ar_name: بني يني
-      name: Benni Yenni
-    - ar_name: بوزقن
-      name: Bouzeguene
-    - ar_name: ماكودة
-      name: Makouda
-    - ar_name: ذراع بن خدة
-      name: Draa Ben Khedda
-    - ar_name: إفرحونان
-      name: Iferhounene
-    - ar_name: تيقزيرت
-      name: Tigzirt
-    - ar_name: معاتقة
-      name: Maatkas
-    - ar_name: تيزي غنيف
-      name: Tizi-Ghenif
-    - ar_name: تيزي وزو
-      name: Tizi Ouzou
-
-id: 16
+    fr: Tizi Ouzou
+    ar: تيزي وزو
+  area: 2956
+  districts:
+    - ar: عين الحمام
+      fr: Ain El Hammam
+    - ar: أزفون
+      fr: Azeffoun
+    - ar: واضية
+      fr: Ouadhias
+    - ar: ذراع الميزان
+      fr: Draa El Mizan
+    - ar: الأربعاء ناث إيراثن
+      fr: Larbaa Nath Iraten
+    - ar: واسيف
+      fr: Ouacif
+    - ar: مقلع
+      fr: Mekla
+    - ar: واقنون
+      fr: Ouaguenoun
+    - ar: بني دوالة
+      fr: Beni Douala
+    - ar: تيزي راشد
+      fr: Tizi Rached
+    - ar: بوغني
+      fr: Boghni
+    - ar: عزازقة
+      fr: Azazga
+    - ar: بني يني
+      fr: Benni Yenni
+    - ar: بوزقن
+      fr: Bouzeguene
+    - ar: ماكودة
+      fr: Makouda
+    - ar: ذراع بن خدة
+      fr: Draa Ben Khedda
+    - ar: إفرحونان
+      fr: Iferhounene
+    - ar: تيقزيرت
+      fr: Tigzirt
+    - ar: معاتقة
+      fr: Maatkas
+    - ar: تيزي غنيف
+      fr: Tizi-Ghenif
+    - ar: تيزي وزو
+      fr: Tizi Ouzou
+ -
+  id: 16
   translations:
-    name: Alger
-    ar_name: الجزائر
-  dairas:
-    - ar_name: الشراقة
-      name: Cheraga
-    - ar_name: الدار البيضاء
-      name: Dar El Beida
-    - ar_name: سيدي امحمد
-      name: Sidi M'hamed
-    - ar_name: باب الوادي
-      name: Bab El Oued
-    - ar_name: الدرارية
-      name: Draria
-    - ar_name: الحراش
-      name: El Harrach
-    - ar_name: براقي
-      name: Baraki
-    - ar_name: بوزريعة
-      name: Bouzareah
-    - ar_name: بئر مراد رايس
-      name: Bir Mourad Rais
-    - ar_name: بئر توتة
-      name: Birtouta
-    - ar_name: حسين داي
-      name: Hussein Dey
-    - ar_name: الرويبة
-      name: Rouiba
-    - ar_name: زرالدة
-      name: Zeralda
-
-id: 17
+    fr: Alger
+    ar: الجزائر
+  area: 1190  
+  districts:
+    - ar: الشراقة
+      fr: Cheraga
+    - ar: الدار البيضاء
+      fr: Dar El Beida
+    - ar: سيدي امحمد
+      fr: Sidi M'hamed
+    - ar: باب الوادي
+      fr: Bab El Oued
+    - ar: الدرارية
+      fr: Draria
+    - ar: الحراش
+      fr: El Harrach
+    - ar: براقي
+      fr: Baraki
+    - ar: بوزريعة
+      fr: Bouzareah
+    - ar: بئر مراد رايس
+      fr: Bir Mourad Rais
+    - ar: بئر توتة
+      fr: Birtouta
+    - ar: حسين داي
+      fr: Hussein Dey
+    - ar: الرويبة
+      fr: Rouiba
+    - ar: زرالدة
+      fr: Zeralda
+ -
+  id: 17
   translations:
-    name: Djelfa
-    ar_name: الجلفة
-  dairas:
-    - ar_name: الادريسية
-      name: El Idrissia
-    - ar_name: عين الإبل
-      name: Ain El Ibel
-    - ar_name: حد الصحاري
-      name: Had Sahary
-    - ar_name: حاسي بحبح
-      name: Hassi Bahbah
-    - ar_name: عين وسارة
-      name: Ain Oussera
-    - ar_name: فيض البطمة
-      name: Faidh El Botma
-    - ar_name: بيرين
-      name: Birine
-    - ar_name: الشارف
-      name: Charef
-    - ar_name: دار الشيوخ
-      name: Dar Chioukh
-    - ar_name: مسعد
-      name: Messaad
-    - ar_name: الجلفة
-      name: Djelfa
-    - ar_name: سيدي لعجال
-      name: Sidi Laadjel
-
-id: 18
+    fr: Djelfa
+    ar: الجلفة
+  area: 66415  
+  districts:
+    - ar: الادريسية
+      fr: El Idrissia
+    - ar: عين الإبل
+      fr: Ain El Ibel
+    - ar: حد الصحاري
+      fr: Had Sahary
+    - ar: حاسي بحبح
+      fr: Hassi Bahbah
+    - ar: عين وسارة
+      fr: Ain Oussera
+    - ar: فيض البطمة
+      fr: Faidh El Botma
+    - ar: بيرين
+      fr: Birine
+    - ar: الشارف
+      fr: Charef
+    - ar: دار الشيوخ
+      fr: Dar Chioukh
+    - ar: مسعد
+      fr: Messaad
+    - ar: الجلفة
+      fr: Djelfa
+    - ar: سيدي لعجال
+      fr: Sidi Laadjel
+ - 
+  id: 18
   translations:
-    name: Jijel
-    ar_name: جيجل
-  dairas:
-    - ar_name: الشقفة
-      name: Chekfa
-    - ar_name: جيملة
-      name: Djimla
-    - ar_name: العنصر
-      name: El Ancer
-    - ar_name: العوانة
-      name: El Aouana
-    - ar_name: الميلية
-      name: El Milia
-    - ar_name: زيامة منصورية
-      name: Ziamah Mansouriah
-    - ar_name: السطارة
-      name: Settara
-    - ar_name: جيجل
-      name: Jijel
-    - ar_name: تاكسنة
-      name: Texenna
-    - ar_name: سيدي معروف
-      name: Sidi Marouf
-    - ar_name: الطاهير
-      name: Taher
-
-id: 19
+    fr: Jijel
+    ar: جيجل
+  area: 2577	  
+  districts:
+    - ar: الشقفة
+      fr: Chekfa
+    - ar: جيملة
+      fr: Djimla
+    - ar: العنصر
+      fr: El Ancer
+    - ar: العوانة
+      fr: El Aouana
+    - ar: الميلية
+      fr: El Milia
+    - ar: زيامة منصورية
+      fr: Ziamah Mansouriah
+    - ar: السطارة
+      fr: Settara
+    - ar: جيجل
+      fr: Jijel
+    - ar: تاكسنة
+      fr: Texenna
+    - ar: سيدي معروف
+      fr: Sidi Marouf
+    - ar: الطاهير
+      fr: Taher
+ -
+  id: 19
   translations:
-    name: Setif
-    ar_name: سطيف
-  dairas:
-    - ar_name: عين أرنات
-      name: Ain Arnat
-    - ar_name: عين أزال
-      name: Ain Azel
-    - ar_name: عين الكبيرة
-      name: Ain El Kebira
-    - ar_name: عين ولمان
-      name: Ain Oulmene
-    - ar_name: بني ورتيلان
-      name: Beni Ourtilane
-    - ar_name: بوقاعة
-      name: Bougaa
-    - ar_name: بني عزيز
-      name: Beni Aziz
-    - ar_name: بوعنداس
-      name: Bouandas
-    - ar_name: عموشة
-      name: Amoucha
-    - ar_name: بابور
-      name: Babor
-    - ar_name: العلمة
-      name: El Eulma
-    - ar_name: بئر العرش
-      name: Bir El Arch
-    - ar_name: جميلة
-      name: Djemila
-    - ar_name: صالح باي
-      name: Salah Bey
-    - ar_name: حمام قرقور
-      name: Hammam Guergour
-    - ar_name: قنزات
-      name: Guenzet
-    - ar_name: قجال
-      name: Guidjel
-    - ar_name: حمام السخنة
-      name: Hammam Sokhna
-    - ar_name: ماوكلان
-      name: Maoklane
-    - ar_name: سطيف
-      name: Setif
-
-id: 20
+    fr: Setif
+    ar: سطيف
+  area: 6504
+  districts:
+    - ar: عين أرنات
+      fr: Ain Arnat
+    - ar: عين أزال
+      fr: Ain Azel
+    - ar: عين الكبيرة
+      fr: Ain El Kebira
+    - ar: عين ولمان
+      fr: Ain Oulmene
+    - ar: بني ورتيلان
+      fr: Beni Ourtilane
+    - ar: بوقاعة
+      fr: Bougaa
+    - ar: بني عزيز
+      fr: Beni Aziz
+    - ar: بوعنداس
+      fr: Bouandas
+    - ar: عموشة
+      fr: Amoucha
+    - ar: بابور
+      fr: Babor
+    - ar: العلمة
+      fr: El Eulma
+    - ar: بئر العرش
+      fr: Bir El Arch
+    - ar: جميلة
+      fr: Djemila
+    - ar: صالح باي
+      fr: Salah Bey
+    - ar: حمام قرقور
+      fr: Hammam Guergour
+    - ar: قنزات
+      fr: Guenzet
+    - ar: قجال
+      fr: Guidjel
+    - ar: حمام السخنة
+      fr: Hammam Sokhna
+    - ar: ماوكلان
+      fr: Maoklane
+    - ar: سطيف
+      fr: Setif
+ -
+  id: 20
   translations:
-    name: Saïda
-    ar_name: سعيدة
-  dairas:
-    - ar_name: عين الحجر
-      name: Ain El Hadjar
-    - ar_name: الحساسنة
-      name: El Hassasna
-    - ar_name: أولاد ابراهيم
-      name: Ouled Brahim
-    - ar_name: يوب
-      name: Youb
-    - ar_name: سيدي بوبكر
-      name: Sidi Boubekeur
-    - ar_name: سعيدة
-      name: Saida
-
-id: 21
+    fr: Saïda
+    ar: سعيدة
+  area: 6764  
+  districts:
+    - ar: عين الحجر
+      fr: Ain El Hadjar
+    - ar: الحساسنة
+      fr: El Hassasna
+    - ar: أولاد ابراهيم
+      fr: Ouled Brahim
+    - ar: يوب
+      fr: Youb
+    - ar: سيدي بوبكر
+      fr: Sidi Boubekeur
+    - ar: سعيدة
+      fr: Saida
+ -
+  id: 21
   translations:
-    name: Skikda
-    ar_name: سكيكدة
-  dairas:
-    - ar_name: سيدي مزغيش
-      name: Sidi Mezghiche
-    - ar_name: عزابة
-      name: Azzaba
-    - ar_name: عين قشرة
-      name: Ain Kechra
-    - ar_name: الحدائق
-      name: El Hadaiek
-    - ar_name: بن عزوز
-      name: Ben Azzouz
-    - ar_name: رمضان جمال
-      name: Ramdane Djamel
-    - ar_name: القل
-      name: Collo
-    - ar_name: تمالوس
-      name: Tamalous
-    - ar_name: الحروش
-      name: El Harrouch
-    - ar_name: سكيكدة
-      name: Skikda
-    - ar_name: الزيتونة
-      name: Zitouna
-    - ar_name: أولاد عطية
-      name: Ouled Attia
-    - ar_name: أم الطوب
-      name: Oum Toub
-
-id: 22
+    fr: Skikda
+    ar: سكيكدة
+  area: 4026  
+  districts:
+    - ar: سيدي مزغيش
+      fr: Sidi Mezghiche
+    - ar: عزابة
+      fr: Azzaba
+    - ar: عين قشرة
+      fr: Ain Kechra
+    - ar: الحدائق
+      fr: El Hadaiek
+    - ar: بن عزوز
+      fr: Ben Azzouz
+    - ar: رمضان جمال
+      fr: Ramdane Djamel
+    - ar: القل
+      fr: Collo
+    - ar: تمالوس
+      fr: Tamalous
+    - ar: الحروش
+      fr: El Harrouch
+    - ar: سكيكدة
+      fr: Skikda
+    - ar: الزيتونة
+      fr: Zitouna
+    - ar: أولاد عطية
+      fr: Ouled Attia
+    - ar: أم الطوب
+      fr: Oum Toub
+ -
+  id: 22
   translations:
-    name: Sidi Bel Abbes
-    ar_name: سيدي بلعباس
-  dairas:
-    - ar_name: عين البرد
-      name: Ain El Berd
-    - ar_name: سيدي علي بوسيدي
-      name: Sidi Ali Boussidi
-    - ar_name: تسالة
-      name: Tessala
-    - ar_name: مولاي سليسن
-      name: Moulay Slissen
-    - ar_name: سفيزف
-      name: Sfisef
-    - ar_name: سيدي لحسن
-      name: Sidi Lahcene
-    - ar_name: بن باديس
-      name: Ben Badis
-    - ar_name: مصطفى بن ابراهيم
-      name: Mostefa Ben Brahim
-    - ar_name: تنيرة
-      name: Tenira
-    - ar_name: مرحوم
-      name: Marhoum
-    - ar_name: سيدي علي بن يوب
-      name: Sidi Ali Ben Youb
-    - ar_name: تلاغ
-      name: Telagh
-    - ar_name: مرين
-      name: Merine
-    - ar_name: راس الماء
-      name: Ras El Ma
-    - ar_name: سيدي بلعباس
-      name: Sidi Bel Abbes
-
-id: 23
+    fr: Sidi Bel Abbes
+    ar: سيدي بلعباس
+  area: 9096  
+  districts:
+    - ar: عين البرد
+      fr: Ain El Berd
+    - ar: سيدي علي بوسيدي
+      fr: Sidi Ali Boussidi
+    - ar: تسالة
+      fr: Tessala
+    - ar: مولاي سليسن
+      fr: Moulay Slissen
+    - ar: سفيزف
+      fr: Sfisef
+    - ar: سيدي لحسن
+      fr: Sidi Lahcene
+    - ar: بن باديس
+      fr: Ben Badis
+    - ar: مصطفى بن ابراهيم
+      fr: Mostefa Ben Brahim
+    - ar: تنيرة
+      fr: Tenira
+    - ar: مرحوم
+      fr: Marhoum
+    - ar: سيدي علي بن يوب
+      fr: Sidi Ali Ben Youb
+    - ar: تلاغ
+      fr: Telagh
+    - ar: مرين
+      fr: Merine
+    - ar: راس الماء
+      fr: Ras El Ma
+    - ar: سيدي بلعباس
+      fr: Sidi Bel Abbes
+ -
+  id: 23
   translations:
-    name: Annaba
-    ar_name: عنابة
-dairas:
-  - ar_name: عين الباردة
-    name: Ain El Berda
-  - ar_name: عنابة
-    name: Annaba
-  - ar_name: برحال
-    name: Berrahal
-  - ar_name: شطايبي
-    name: Chetaibi
-  - ar_name: البوني
-    name: El Bouni
-  - ar_name: الحجار
-    name: El Hadjar
-
-id: 24
+    fr: Annaba
+    ar: عنابة
+  area: 1439  
+  districts:
+  - ar: عين الباردة
+    fr: Ain El Berda
+  - ar: عنابة
+    fr: Annaba
+  - ar: برحال
+    fr: Berrahal
+  - ar: شطايبي
+    fr: Chetaibi
+  - ar: البوني
+    fr: El Bouni
+  - ar: الحجار
+    fr: El Hadjar
+ -
+  id: 24
   translations:
-    name: Guelma
-    ar_name: قالمة
-  dairas:
-    - ar_name: بوشقوف
-      name: Bouchegouf
-    - ar_name: عين مخلوف
-      name: Ain Makhlouf
-    - ar_name: وادي الزناتي
-      name: Oued Zenati
-    - ar_name: خزارة
-      name: Khezaras
-    - ar_name: قلعة بوصبع
-      name: Guelaat Bousbaa
-    - ar_name: قالمة
-      name: Guelma
-    - ar_name: حمام دباغ
-      name: Hammam Debagh
-    - ar_name: هيليوبوليس
-      name: Heliopolis
-    - ar_name: حمام النبايل
-      name: Hammam N'bails
-    - ar_name: عين حساينية
-      name: Ain Hessainia
-
-id: 25
+    fr: Guelma
+    ar: قالمة
+  area: 4101	  
+  districts:
+    - ar: بوشقوف
+      fr: Bouchegouf
+    - ar: عين مخلوف
+      fr: Ain Makhlouf
+    - ar: وادي الزناتي
+      fr: Oued Zenati
+    - ar: خزارة
+      fr: Khezaras
+    - ar: قلعة بوصبع
+      fr: Guelaat Bousbaa
+    - ar: قالمة
+      fr: Guelma
+    - ar: حمام دباغ
+      fr: Hammam Debagh
+    - ar: هيليوبوليس
+      fr: Heliopolis
+    - ar: حمام النبايل
+      fr: Hammam N'bails
+    - ar: عين حساينية
+      fr: Ain Hessainia
+ -
+  id: 25
   translations:
-    name: Constantine
-    ar_name: قسنطينة
-  dairas:
-    - ar_name: عين عبيد
-      name: Ain Abid
-    - ar_name: الخروب
-      name: El Khroub
-    - ar_name: زيغود يوسف
-      name: Zighoud Youcef
-    - ar_name: قسنطينة
-      name: Constantine
-    - ar_name: حامة بوزيان
-      name: Hamma Bouziane
-    - ar_name: ابن زياد
-      name: Ibn Ziad
-
-id: 26
+    fr: Constantine
+    ar: قسنطينة
+  area: 2187  
+  districts:
+    - ar: عين عبيد
+      fr: Ain Abid
+    - ar: الخروب
+      fr: El Khroub
+    - ar: زيغود يوسف
+      fr: Zighoud Youcef
+    - ar: قسنطينة
+      fr: Constantine
+    - ar: حامة بوزيان
+      fr: Hamma Bouziane
+    - ar: ابن زياد
+      fr: Ibn Ziad
+ -
+  id: 26
   translations:
-    name: Medea
-    ar_name: المدية
-  dairas:
-    - ar_name: عين بوسيف
-      name: Ain Boucif
-    - ar_name: شلالة العذاورة
-      name: Chellalat El Adhaoura
-    - ar_name: تابلاط
-      name: Tablat
-    - ar_name: عزيز
-      name: Aziz
-    - ar_name: العمارية
-      name: El Omaria
-    - ar_name: وزرة
-      name: Ouzera
-    - ar_name: بني سليمان
-      name: Beni Slimane
-    - ar_name: البرواقية
-      name: Berrouaghia
-    - ar_name: القلب الكبير
-      name: Guelb El Kebir
-    - ar_name: أولاد عنتر
-      name: Ouled Antar
-    - ar_name: سي المحجوب
-      name: Si Mahdjoub
-    - ar_name: الشهبونية
-      name: Chahbounia
-    - ar_name: سيدي نعمان
-      name: Sidi Naamane
-    - ar_name: السواقي
-      name: Souaghi
-    - ar_name: المدية
-      name: Medea
-    - ar_name: العزيزية
-      name: El Azizia
-    - ar_name: عوامري
-      name: Ouamri
-    - ar_name: قصر البخاري
-      name: Ksar El Boukhari
-    - ar_name: سغوان
-      name: Seghouane
-
-id: 27
+    fr: Medea
+    ar: المدية
+  area: 8866
+  districts:
+    - ar: عين بوسيف
+      fr: Ain Boucif
+    - ar: شلالة العذاورة
+      fr: Chellalat El Adhaoura
+    - ar: تابلاط
+      fr: Tablat
+    - ar: عزيز
+      fr: Aziz
+    - ar: العمارية
+      fr: El Omaria
+    - ar: وزرة
+      fr: Ouzera
+    - ar: بني سليمان
+      fr: Beni Slimane
+    - ar: البرواقية
+      fr: Berrouaghia
+    - ar: القلب الكبير
+      fr: Guelb El Kebir
+    - ar: أولاد عنتر
+      fr: Ouled Antar
+    - ar: سي المحجوب
+      fr: Si Mahdjoub
+    - ar: الشهبونية
+      fr: Chahbounia
+    - ar: سيدي نعمان
+      fr: Sidi Naamane
+    - ar: السواقي
+      fr: Souaghi
+    - ar: المدية
+      fr: Medea
+    - ar: العزيزية
+      fr: El Azizia
+    - ar: عوامري
+      fr: Ouamri
+    - ar: قصر البخاري
+      fr: Ksar El Boukhari
+    - ar: سغوان
+      fr: Seghouane
+ -
+  id: 27
   translations:
-    name: Mostaganem
-    ar_name: مستغانم
-  dairas:
-    - ar_name: عشعاشة
-      name: Achaacha
-    - ar_name: خير الدين
-      name: Kheir Eddine
-    - ar_name: عين نويسي
-      name: Ain Nouicy
-    - ar_name: ماسرة
-      name: Mesra
-    - ar_name: عين تادلس
-      name: Ain Tedeles
-    - ar_name: سيدي لخضر
-      name: Sidi Lakhdar
-    - ar_name: بوقيراط
-      name: Bouguirat
-    - ar_name: حاسي ماماش
-      name: Hassi Mameche
-    - ar_name: مستغانم
-      name: Mostaganem
-    - ar_name: سيدي علي
-      name: Sidi Ali
-
-
-id: 28
+    fr: Mostaganem
+    ar: مستغانم
+  area: 2175  
+  districts:
+    - ar: عشعاشة
+      fr: Achaacha
+    - ar: خير الدين
+      fr: Kheir Eddine
+    - ar: عين نويسي
+      fr: Ain Nouicy
+    - ar: ماسرة
+      fr: Mesra
+    - ar: عين تادلس
+      fr: Ain Tedeles
+    - ar: سيدي لخضر
+      fr: Sidi Lakhdar
+    - ar: بوقيراط
+      fr: Bouguirat
+    - ar: حاسي ماماش
+      fr: Hassi Mameche
+    - ar: مستغانم
+      fr: Mostaganem
+    - ar: سيدي علي
+      fr: Sidi Ali
+ -
+  id: 28
   translations:
-    name: MSila
-    ar_name: المسيلة
-  dairas:
-    - ar_name: عين الحجل
-      name: Ain El Hadjel
-    - ar_name: عين الملح
-      name: Ain El Melh
-    - ar_name: بن سرور
-      name: Ben Srour
-    - ar_name: مقرة
-      name: Magra
-    - ar_name: سيدي عيسى
-      name: Sidi Aissa
-    - ar_name: أولاد سيدي ابراهيم
-      name: Ouled Sidi Brahim
-    - ar_name: بوسعادة
-      name: Bousaada
-    - ar_name: شلال
-      name: Chellal
-    - ar_name: خبانة
-      name: Khoubana
-    - ar_name: جبل مساعد
-      name: Djebel Messaad
-    - ar_name: حمام الضلعة
-      name: Hammam Dalaa
-    - ar_name: أولاد دراج
-      name: Ouled Derradj
-    - ar_name: امجدل
-      name: Medjedel
-    - ar_name: المسيلة
-      name: M'sila
-    - ar_name: سيدي عامر
-      name: Sidi Ameur
-
-
-id: 29
+    fr: MSila
+    ar: المسيلة
+  area: 18718  
+  districts:
+    - ar: عين الحجل
+      fr: Ain El Hadjel
+    - ar: عين الملح
+      fr: Ain El Melh
+    - ar: بن سرور
+      fr: Ben Srour
+    - ar: مقرة
+      fr: Magra
+    - ar: سيدي عيسى
+      fr: Sidi Aissa
+    - ar: أولاد سيدي ابراهيم
+      fr: Ouled Sidi Brahim
+    - ar: بوسعادة
+      fr: Bousaada
+    - ar: شلال
+      fr: Chellal
+    - ar: خبانة
+      fr: Khoubana
+    - ar: جبل مساعد
+      fr: Djebel Messaad
+    - ar: حمام الضلعة
+      fr: Hammam Dalaa
+    - ar: أولاد دراج
+      fr: Ouled Derradj
+    - ar: امجدل
+      fr: Medjedel
+    - ar: المسيلة
+      fr: M'sila
+    - ar: سيدي عامر
+      fr: Sidi Ameur
+ -
+  id: 29
   translations:
-    name: Mascara
-    ar_name: معسكر
-  dairas:
-    - ar_name: عين فارس
-      name: Ain Fares
-    - ar_name: عين فكان
-      name: Ain Fekan
-    - ar_name: وادي الأبطال
-      name: Oued El Abtal
-    - ar_name: عقاز
-      name: Oggaz
-    - ar_name: عوف
-      name: Aouf
-    - ar_name: سيق
-      name: Sig
-    - ar_name: بوحنيفية
-      name: Bouhanifia
-    - ar_name: البرج
-      name: El Bordj
-    - ar_name: زهانة
-      name: Zahana
-    - ar_name: المحمدية
-      name: Mohammadia
-    - ar_name: الحشم
-      name: Hachem
-    - ar_name: تيزي
-      name: Tizi
-    - ar_name: غريس
-      name: Ghriss
-    - ar_name: وادي التاغية
-      name: Oued Taria
-    - ar_name: معسكر
-      name: Mascara
-    - ar_name: تيغنيف
-      name: Tighennif
-
-id: 30
+    fr: Mascara
+    ar: معسكر
+  area: 5941  
+  districts:
+    - ar: عين فارس
+      fr: Ain Fares
+    - ar: عين فكان
+      fr: Ain Fekan
+    - ar: وادي الأبطال
+      fr: Oued El Abtal
+    - ar: عقاز
+      fr: Oggaz
+    - ar: عوف
+      fr: Aouf
+    - ar: سيق
+      fr: Sig
+    - ar: بوحنيفية
+      fr: Bouhanifia
+    - ar: البرج
+      fr: El Bordj
+    - ar: زهانة
+      fr: Zahana
+    - ar: المحمدية
+      fr: Mohammadia
+    - ar: الحشم
+      fr: Hachem
+    - ar: تيزي
+      fr: Tizi
+    - ar: غريس
+      fr: Ghriss
+    - ar: وادي التاغية
+      fr: Oued Taria
+    - ar: معسكر
+      fr: Mascara
+    - ar: تيغنيف
+      fr: Tighennif
+ -
+  id: 30
   translations:
-    name: Ouargla
-    ar_name: ورقلة
-  dairas:
-    - ar_name: سيدي خويلد
-      name: Sidi Khouiled
-    - ar_name: البرمة
-      name: El Borma
-    - ar_name: حاسي مسعود
-      name: Hassi Messaoud
-    - ar_name: انقوسة
-      name: N'goussa
-    - ar_name: ورقلة
-      name: Ouargla
-
-
-id: 31
+    fr: Ouargla
+    ar: ورقلة
+  area: 194552
+  districts:
+    - ar: سيدي خويلد
+      fr: Sidi Khouiled
+    - ar: البرمة
+      fr: El Borma
+    - ar: حاسي مسعود
+      fr: Hassi Messaoud
+    - ar: انقوسة
+      fr: N'goussa
+    - ar: ورقلة
+      fr: Ouargla
+ -
+  id: 31
   translations:
-    name: Oran
-    ar_name: وهران
-  dairas:
-    - ar_name: بطيوة
-      name: Bethioua
-    - ar_name: بوتليليس
-      name: Boutlelis
-    - ar_name: عين الترك
-      name: Ain Turk
-    - ar_name: أرزيو
-      name: Arzew
-    - ar_name: قديل
-      name: Gdyel
-    - ar_name: بئر الجير
-      name: Bir El Djir
-    - ar_name: وادي تليلات
-      name: Oued Tlelat
-    - ar_name: السانية
-      name: Es Senia
-    - ar_name: وهران
-      name: Oran
-
-id: 32
+    fr: Oran
+    ar: وهران
+  area: 2121
+  districts:
+    - ar: بطيوة
+      fr: Bethioua
+    - ar: بوتليليس
+      fr: Boutlelis
+    - ar: عين الترك
+      fr: Ain Turk
+    - ar: أرزيو
+      fr: Arzew
+    - ar: قديل
+      fr: Gdyel
+    - ar: بئر الجير
+      fr: Bir El Djir
+    - ar: وادي تليلات
+      fr: Oued Tlelat
+    - ar: السانية
+      fr: Es Senia
+    - ar: وهران
+      fr: Oran
+ -
+  id: 32
   translations:
-    name: El Bayadh
-    ar_name: البيض
-  dairas:
-    - ar_name: الأبيض سيدي الشيخ
-      name: Labiodh Sidi Cheikh
-    - ar_name: بوعلام
-      name: Boualem
-    - ar_name: بوقطب
-      name: Bougtoub
-    - ar_name: بوسمغون
-      name: Boussemghoun
-    - ar_name: بريزينة
-      name: Brezina
-    -  ar_name: رقاصة
-      name: Rogassa
-    - ar_name: شلالة
-      name: Chellala
-    - ar_name: البيض
-      name: El Bayadh
-
-id: 33
+    fr: El Bayadh
+    ar: البيض
+  area: 78870
+  districts:
+    - ar: الأبيض سيدي الشيخ
+      fr: Labiodh Sidi Cheikh
+    - ar: بوعلام
+      fr: Boualem
+    - ar: بوقطب
+      fr: Bougtoub
+    - ar: بوسمغون
+      fr: Boussemghoun
+    - ar: بريزينة
+      fr: Brezina
+    - ar: رقاصة
+      fr: Rogassa
+    - ar: شلالة
+      fr: Chellala
+    - ar: البيض
+      fr: El Bayadh
+ -
+  id: 33
   translations:
-    name: Illizi
-    ar_name: إليزي
-  dairas:
-    - ar_name: إن أمناس
-      name: In Amenas
-    - ar_name: إيليزي
-      name: Illizi
-
-id: 34
+    fr: Illizi
+    ar: إليزي
+  area: 198815 
+  districts:
+    - ar: إن أمناس
+      fr: In Amenas
+    - ar: إيليزي
+      fr: Illizi
+ -
+  id: 34
   translations:
-    name: Bordj Bou Arreridj
-    ar_name: برج بوعريريج
-  dairas:
-    - ar_name: عين تاغروت
-      name: Ain Taghrout
-    - ar_name: رأس الوادي
-      name: Ras El Oued
-    - ar_name: برج بوعريريج
-      name: Bordj Bou Arreridj
-    - ar_name: المنصورة
-      name: Mansourah
-    - ar_name: برج الغدير
-      name: Bordj Ghedir
-    - ar_name: بئر قاصد علي
-      name: Bir Kasdali
-    - ar_name: برج زمورة
-      name: Bordj Zemmoura
-    - ar_name: جعافرة
-      name: Djaafra
-    -  ar_name: الحمادية
-      name: El Hamadia
-    - ar_name: مجانة
-      name: Medjana
-
-id: 35
+    fr: Bordj Bou Arreridj
+    ar: برج بوعريريج
+  area: 4115
+  districts:
+    - ar: عين تاغروت
+      fr: Ain Taghrout
+    - ar: رأس الوادي
+      fr: Ras El Oued
+    - ar: برج بوعريريج
+      fr: Bordj Bou Arreridj
+    - ar: المنصورة
+      fr: Mansourah
+    - ar: برج الغدير
+      fr: Bordj Ghedir
+    - ar: بئر قاصد علي
+      fr: Bir Kasdali
+    - ar: برج زمورة
+      fr: Bordj Zemmoura
+    - ar: جعافرة
+      fr: Djaafra
+    - ar: الحمادية
+      fr: El Hamadia
+    - ar: مجانة
+      fr: Medjana
+ -
+  id: 35
   translations:
-    name: Boumerdes
-    ar_name: بومرداس
-  dairas:
-    - ar_name: دلس
-      name: Dellys
-    - ar_name: الثنية
-      name: Thenia
-    - ar_name: بغلية
-      name: Baghlia
-    - ar_name: برج منايل
-      name: Bordj Menaiel
-    - ar_name: بودواو
-      name: Boudouaou
-    - ar_name: بومرداس
-      name: Boumerdes
-    - ar_name: يسر
-      name: Isser
-    - ar_name: خميس الخشنة
-      name: Khemis El Khechna
-    - ar_name: الناصرية
-      name: Naciria
-
-id: 36
+    fr: Boumerdes
+    ar: بومرداس
+  area: 1356	
+  districts:
+    - ar: دلس
+      fr: Dellys
+    - ar: الثنية
+      fr: Thenia
+    - ar: بغلية
+      fr: Baghlia
+    - ar: برج منايل
+      fr: Bordj Menaiel
+    - ar: بودواو
+      fr: Boudouaou
+    - ar: بومرداس
+      fr: Boumerdes
+    - ar: يسر
+      fr: Isser
+    - ar: خميس الخشنة
+      fr: Khemis El Khechna
+    - ar: الناصرية
+      fr: Naciria
+ -
+  id: 36
   translations:
-    name: El Tarf
-    ar_name: الطارف
-  dairas:
-    - ar_name: الطارف
-      name: El Tarf
-    - ar_name: بوحجار
-      name: Bouhadjar
-    - ar_name: البسباس
-      name: Besbes
-    - ar_name: بن مهيدي
-      name: Ben M'hidi
-    - ar_name: بوثلجة
-      name: Bouteldja
-    - ar_name: الذرعان
-      name: Drean
-    - ar_name: القالة
-      name: El Kala
-
-id: 37
+    fr: El Tarf
+    ar: الطارف
+  area: 3339  
+  districts:
+    - ar: الطارف
+      fr: El Tarf
+    - ar: بوحجار
+      fr: Bouhadjar
+    - ar: البسباس
+      fr: Besbes
+    - ar: بن مهيدي
+      fr: Ben M'hidi
+    - ar: بوثلجة
+      fr: Bouteldja
+    - ar: الذرعان
+      fr: Drean
+    - ar: القالة
+      fr: El Kala
+ -
+  id: 37
   translations:
-    name: Tindouf
-    ar_name: تندوف
-  dairas:
-    - ar_name: تندوف
-      name: Tindouf
-
-id: 38
+    fr: Tindouf
+    ar: تندوف
+  area: 159000  
+  districts:
+    - ar: تندوف
+      fr: Tindouf
+ -
+  id: 38
   translations:
-    name: Tissemsilt
-    ar_name: تيسمسيلت
-  dairas:
-    - ar_name: عماري
-      name: Ammari
-    - ar_name: برج بونعامة
-      name: Bordj Bounaama
-    - ar_name: برج الأمير عبد القادر
-      name: Bordj Emir Abdelkader
-    - ar_name: الأزهرية
-      name: Lazharia
-    - ar_name: خميستي
-      name: Khemisti
-    - ar_name: لرجام
-      name: Lardjem
-    - ar_name: تيسمسيلت
-      name: Tissemsilt
-    - ar_name: ثنية الاحد
-      name: Theniet El Had
-
-id: 39
+    fr: Tissemsilt
+    ar: تيسمسيلت
+  area: 3152
+  districts:
+    - ar: عماري
+      fr: Ammari
+    - ar: برج بونعامة
+      fr: Bordj Bounaama
+    - ar: برج الأمير عبد القادر
+      fr: Bordj Emir Abdelkader
+    - ar: الأزهرية
+      fr: Lazharia
+    - ar: خميستي
+      fr: Khemisti
+    - ar: لرجام
+      fr: Lardjem
+    - ar: تيسمسيلت
+      fr: Tissemsilt
+    - ar: ثنية الاحد
+      fr: Theniet El Had
+ -
+  id: 39
   translations:
-    name: El Oued
-    ar_name: الوادي
-  dairas:
-    - ar_name: البياضة
-    name: Bayadha
-    - ar_name: الطالب العربي
-    name: Taleb Larbi
-    - ar_name: الدبيلة
-    name: Debila
-    - ar_name: الرباح
-    name: Robbah
-    - ar_name: الوادي
-    name: El Oued
-    - ar_name: قمار
-    name: Guemar
-    - ar_name: الرقيبة
-    name: Reguiba
-    - ar_name: حاسي خليفة
-    name: Hassi Khalifa
-    - ar_name: المقرن
-    name: Magrane
-    - ar_name: اميه وانسة
-    name: Mih Ouensa
-
-id: 40
+    fr: El Oued
+    ar: الوادي
+  area: 45738
+  districts:
+    - ar: البياضة
+      fr: Bayadha
+    - ar: الطالب العربي
+      fr: Taleb Larbi
+    - ar: الدبيلة
+      fr: Debila
+    - ar: الرباح
+      fr: Robbah
+    - ar: الوادي
+      fr: El Oued
+    - ar: قمار
+      fr: Guemar
+    - ar: الرقيبة
+      fr: Reguiba
+    - ar: حاسي خليفة
+      fr: Hassi Khalifa
+    - ar: المقرن
+      fr: Magrane
+    - ar: اميه وانسة
+      fr: Mih Ouensa
+ -
+  id: 40
   translations:
-    name: Khenchela
-    ar_name: خنشلة
-  dairas:
-    - ar_name: عين الطويلة
-    name: Ain Touila
-    - ar_name: بابار
-    name: Babar
-    - ar_name: الحامة
-    name: El Hamma
-    - ar_name: بوحمامة
-    name: Bouhmama
-    - ar_name: ششار
-    name: Chechar
-    - ar_name: أولاد رشاش
-    name: Ouled Rechache
-    - ar_name: قايس
-    name: Kais
-    - ar_name: خنشلة
-    name: Khenchela
-
-id: 41
+    fr: Khenchela
+    ar: خنشلة
+  area: 9811
+  districts:
+    - ar: عين الطويلة
+      fr: Ain Touila
+    - ar: بابار
+      fr: Babar
+    - ar: الحامة
+      fr: El Hamma
+    - ar: بوحمامة
+      fr: Bouhmama
+    - ar: ششار
+      fr: Chechar
+    - ar: أولاد رشاش
+      fr: Ouled Rechache
+    - ar: قايس
+      fr: Kais
+    - ar: خنشلة
+      fr: Khenchela
+ -
+  id: 41
   translations:
-    name: Souk Ahras
-    ar_name: سوق أهراس
-  dairas:
-    - ar_name: سدراتة
-      name: Sedrata
-    - ar_name: أولاد إدريس
-      name: Ouled Driss
-    - ar_name: بئر بوحوش
-      name: Bir Bouhouche
-    - ar_name: الحدادة
-      name: Haddada
-    - ar_name: تاورة
-      name: Taoura
-    - ar_name: المشروحة
-      name: Mechroha
-    - ar_name: مداوروش
-      name: M'daourouche
-    - ar_name: أم العظايم
-      name: Oum El Adhaim
-    - ar_name: سوق أهراس
-      name: Souk Ahras
-    - ar_name: المراهنة
-      name: Merahna
-
-id: 42
+    fr: Souk Ahras
+    ar: سوق أهراس
+  area: 4541
+  districts:
+    - ar: سدراتة
+      fr: Sedrata
+    - ar: أولاد إدريس
+      fr: Ouled Driss
+    - ar: بئر بوحوش
+      fr: Bir Bouhouche
+    - ar: الحدادة
+      fr: Haddada
+    - ar: تاورة
+      fr: Taoura
+    - ar: المشروحة
+      fr: Mechroha
+    - ar: مداوروش
+      fr: M'daourouche
+    - ar: أم العظايم
+      fr: Oum El Adhaim
+    - ar: سوق أهراس
+      fr: Souk Ahras
+    - ar: المراهنة
+      fr: Merahna
+ -
+  id: 42
   translations:
-    name: Tipaza
-    ar_name: تيبازة
-  dairas:
-    - ar_name: قوراية
-      name: Gouraya
-    - ar_name: أحمر العين
-      name: Ahmar El Ain
-    - ar_name: بواسماعيل
-      name: Bou Ismail
-    - ar_name: القليعة
-      name: Kolea
-    - ar_name: الداموس
-      name: Damous
-    - ar_name: شرشال
-      name: Cherchell
-    - ar_name: فوكة
-      name: Fouka
-    - ar_name: حجوط
-      name: Hadjout
-    - ar_name: سيدي أعمر
-      name: Sidi Amar
-    - ar_name: تيبازة
-      name: Tipaza
-
-id: 43
+    fr: Tipaza
+    ar: تيبازة
+  area: 1605
+  districts:
+    - ar: قوراية
+      fr: Gouraya
+    - ar: أحمر العين
+      fr: Ahmar El Ain
+    - ar: بواسماعيل
+      fr: Bou Ismail
+    - ar: القليعة
+      fr: Kolea
+    - ar: الداموس
+      fr: Damous
+    - ar: شرشال
+      fr: Cherchell
+    - ar: فوكة
+      fr: Fouka
+    - ar: حجوط
+      fr: Hadjout
+    - ar: سيدي أعمر
+      fr: Sidi Amar
+    - ar: تيبازة
+      fr: Tipaza
+ -
+  id: 43
   translations:
-    name: Mila
-    ar_name: ميلة
-  dairas:
-    - ar_name: وادي النجاء
-      name: Oued Endja
-    - ar_name: عين البيضاء أحريش
-      name: Ain Beida Harriche
-    - ar_name: شلغوم العيد
-      name: Chelghoum Laid
-    - ar_name: ميلة
-      name: Mila
-    - ar_name: ترعي باينان
-      name: Terrai Bainen
-    - ar_name: تاجنانت
-      name: Tadjenanet
-    - ar_name: بوحاتم
-      name: Bouhatem
-    - ar_name: سيدي مروان
-      name: Sidi Merouane
-    - ar_name: التلاغمة
-      name: Teleghma
-    - ar_name: فرجيوة
-      name: Ferdjioua
-    - ar_name: القرارم قوقة
-      name: Grarem Gouga
-    - ar_name: تسدان حدادة
-      name: Tassadane Haddada
-    - ar_name: الرواشد
-      name: Rouached
-
-id: 44
+    fr: Mila
+    ar: ميلة
+  area: 3407
+  districts:
+    - ar: وادي النجاء
+      fr: Oued Endja
+    - ar: عين البيضاء أحريش
+      fr: Ain Beida Harriche
+    - ar: شلغوم العيد
+      fr: Chelghoum Laid
+    - ar: ميلة
+      fr: Mila
+    - ar: ترعي باينان
+      fr: Terrai Bainen
+    - ar: تاجنانت
+      fr: Tadjenanet
+    - ar: بوحاتم
+      fr: Bouhatem
+    - ar: سيدي مروان
+      fr: Sidi Merouane
+    - ar: التلاغمة
+      fr: Teleghma
+    - ar: فرجيوة
+      fr: Ferdjioua
+    - ar: القرارم قوقة
+      fr: Grarem Gouga
+    - ar: تسدان حدادة
+      fr: Tassadane Haddada
+    - ar: الرواشد
+      fr: Rouached
+ -
+  id: 44
   translations:
-    name: Ain Defla
-    ar_name: عين الدفلى
-  dairas:
-    - ar_name: حمام ريغة
-      name: Hammam Righa
-    - ar_name: عين الدفلى
-      name: Ain Defla
-    - ar_name: العبادية
-      name: El Abadia
-    - ar_name: عين الاشياخ
-      name: Ain Lechiakh
-    - ar_name: العامرة
-      name: El Amra
-    - ar_name: جندل
-      name: Djendel
-    - ar_name: بطحية
-      name: Bathia
-    - ar_name: مليانة
-      name: Miliana
-    - ar_name: برج الأمير خالد
-      name: Bordj El Emir Khaled
-    - ar_name: بومدفع
-      name: Boumedfaa
-    - ar_name: جليدة
-      name: Djelida
-    - ar_name: العطاف
-      name: El Attaf
-    - ar_name: الروينة
-      name: Rouina
-    - ar_name: خميس
-      name: Khemis
-
-id: 45
+    fr: Ain Defla
+    ar: عين الدفلى
+  area: 4891
+  districts:
+    - ar: حمام ريغة
+      fr: Hammam Righa
+    - ar: عين الدفلى
+      fr: Ain Defla
+    - ar: العبادية
+      fr: El Abadia
+    - ar: عين الاشياخ
+      fr: Ain Lechiakh
+    - ar: العامرة
+      fr: El Amra
+    - ar: جندل
+      fr: Djendel
+    - ar: بطحية
+      fr: Bathia
+    - ar: مليانة
+      fr: Miliana
+    - ar: برج الأمير خالد
+      fr: Bordj El Emir Khaled
+    - ar: بومدفع
+      fr: Boumedfaa
+    - ar: جليدة
+      fr: Djelida
+    - ar: العطاف
+      fr: El Attaf
+    - ar: الروينة
+      fr: Rouina
+    - ar: خميس
+      fr: Khemis
+ -
+  id: 45
   translations:
-    name: Naama
-    ar_name: النعامة
-  dairas:
-    - ar_name: المشرية
-      name: Mecheria
-    - ar_name: عين الصفراء
-      name: Ain Sefra
-    - ar_name: عسلة
-      name: Asla
-    - ar_name: مغرار
-      name: Moghrar
-    - ar_name: مكمن بن عمار
-      name: Mekmen Ben Amar
-    - ar_name: النعامة
-      name: Naama
-    - ar_name: سفيسيفة
-      name: Sfissifa
-
-id: 46
+    fr: Naama
+    ar: النعامة
+  area: 29950 
+  districts:
+    - ar: المشرية
+      fr: Mecheria
+    - ar: عين الصفراء
+      fr: Ain Sefra
+    - ar: عسلة
+      fr: Asla
+    - ar: مغرار
+      fr: Moghrar
+    - ar: مكمن بن عمار
+      fr: Mekmen Ben Amar
+    - ar: النعامة
+      fr: Naama
+    - ar: سفيسيفة
+      fr: Sfissifa
+ -
+  id: 46
   translations:
-    name: Ain Temouchent
-    ar_name: عين تموشنت
-  dairas:
-    - ar_name: عين الكيحل
-    name: Ain Kihel
-    - ar_name: عين الأربعاء
-    name: Ain Larbaa
-    - ar_name: عين تموشنت
-    name: Ain Temouchent
-    - ar_name: بني صاف
-    name: Beni Saf
-    - ar_name: العامرية
-    name: El Amria
-    - ar_name: المالح
-    name: El Maleh
-    - ar_name: حمام بوحجر
-    name: Hammam Bou Hadjar
-    - ar_name: ولهاصة الغرابة
-    name: Oulhassa Gheraba
-
-id: 47
+    fr: Ain Temouchent
+    ar: عين تموشنت
+  area: 2379
+  districts:
+    - ar: عين الكيحل
+      fr: Ain Kihel
+    - ar: عين الأربعاء
+      fr: Ain Larbaa
+    - ar: عين تموشنت
+      fr: Ain Temouchent
+    - ar: بني صاف
+      fr: Beni Saf
+    - ar: العامرية
+      fr: El Amria
+    - ar: المالح
+      fr: El Maleh
+    - ar: حمام بوحجر
+      fr: Hammam Bou Hadjar
+    - ar: ولهاصة الغرابة
+      fr: Oulhassa Gheraba
+ -
+  id: 47
   translations:
-    name: Ghardaia
-    ar_name: غرداية
-  dairas:
-    - ar_name: بريان
-      name: Berriane
-    - ar_name: بونورة
-      name: Bounoura
-    - ar_name: ضاية بن ضحوة
-      name: Dhayet Ben Dhahoua
-    - ar_name: زلفانة
-      name: Zelfana
-    - ar_name: غرداية
-      name: Ghardaia
-    - ar_name: القرارة
-      name: El Guerrara
-    - ar_name: المنصورة
-      name: Mansourah
-    - ar_name: متليلي
-      name: Metlili
-
-id: 48
+    fr: Ghardaia
+    ar: غرداية
+  area: 23890
+  districts:
+    - ar: بريان
+      fr: Berriane
+    - ar: بونورة
+      fr: Bounoura
+    - ar: ضاية بن ضحوة
+      fr: Dhayet Ben Dhahoua
+    - ar: زلفانة
+      fr: Zelfana
+    - ar: غرداية
+      fr: Ghardaia
+    - ar: القرارة
+      fr: El Guerrara
+    - ar: المنصورة
+      fr: Mansourah
+    - ar: متليلي
+      fr: Metlili
+ -
+  id: 48
   translations:
-    name: Relizane
-    ar_name: غليزان
-  dairas:
-    - ar_name: يلل
-    name: Yellel
-    - ar_name: عين طارق
-    name: Ain Tarek
-    - ar_name: عمي موسى
-    name: Ammi Moussa
-    - ar_name: المطمر
-    name: El Matmar
-    - ar_name: غليزان
-    name: Relizane
-    - ar_name: زمورة
-    name: Zemmoura
-    - ar_name: سيدي أمحمد بن علي
-    name: Sidi M'hamed Ben Ali
-    - ar_name: جديوية
-    name: Djidiouia
-    - ar_name: الحمادنة
-    name: El H'madna
-    - ar_name: مازونة
-    name: Mazouna
-    - ar_name: وادي رهيو
-    name: Oued Rhiou
-    - ar_name: منداس
-    name: Mendes
-    - ar_name: الرمكة
-    name: Ramka
-
-id: 49
+    fr: Relizane
+    ar: غليزان
+  area: 4870
+  districts:
+    - ar: يلل
+      fr: Yellel
+    - ar: عين طارق
+      fr: Ain Tarek
+    - ar: عمي موسى
+      fr: Ammi Moussa
+    - ar: المطمر
+      fr: El Matmar
+    - ar: غليزان
+      fr: Relizane
+    - ar: زمورة
+      fr: Zemmoura
+    - ar: سيدي أمحمد بن علي
+      fr: Sidi M'hamed Ben Ali
+    - ar: جديوية
+      fr: Djidiouia
+    - ar: الحمادنة
+      fr: El H'madna
+    - ar: مازونة
+      fr: Mazouna
+    - ar: وادي رهيو
+      fr: Oued Rhiou
+    - ar: منداس
+      fr: Mendes
+    - ar: الرمكة
+      fr: Ramka
+ -
+  id: 49
   translations:
-    name: El M'ghair
-    ar_name: المغير
-  dairas:
-    - ar_name: المغير
-      name: El M'Ghair
-    - ar_name: ﺟﺎﻣﻌﺔ
-      name: Djamaâ
-
-id: 50
+    fr: El M'ghair
+    ar: المغير
+  area: 8835
+  districts:
+    - ar: المغير
+      fr: El M'Ghair
+    - ar: ﺟﺎﻣﻌﺔ
+      fr: Djamaâ
+ -
+  id: 50
   translations:
-    name: El Meniaa
-    ar_name: المنيعة
-  dairas:
-    - ar_name: منصورة
-      name: Mansoura
-    - ar_name: المنيعة
-      name: El Meniaa
-    
-
-id: 51
+    fr: El Meniaa
+    ar: المنيعة
+  area: 62215
+  districts:
+    - ar: منصورة
+      fr: Mansoura
+    - ar: المنيعة
+      fr: El Meniaa
+ -    
+  id: 51
   translations:
-    name: Ouled Djellal
-    ar_name: أولاد جلال
-  dairas:
-
-id: 52
+    fr: Ouled Djellal
+    ar: أولاد جلال
+  area: 11410  
+  districts:
+    - fr: Ouled Djellal
+      ar: أولاد جلال  
+ -  
+  id: 52
   translations:
-    name: Bordj Baji Mokhtar
-    ar_name: برج باجي مختار
-  dairas:
-
-id: 53
+    fr: Bordj Baji Mokhtar
+    ar: برج باجي مختار
+  area: 120026
+  districts:
+    - fr: Bordj Baji Mokhtar
+      ar: برج باجي مختار
+ -
+  id: 53
   translations:
-    name: Béni Abbès
-    ar_name: بني عباس
-  dairas:
-
-id: 54
+    fr: Béni Abbès
+    ar: بني عباس
+  area: 101350
+  districts:
+    - ar: بني عباس
+      fr: Béni Abbès
+    - ar: كرزاز
+      fr: Kerzaz
+    - ar: اﻟﻮاتة
+      fr: El Ouata
+    - ar: تبلبالة
+      fr: Tabelbala
+    - ar: أولاد خضير
+      fr: Ouled Khodeïr
+    - ar: اﻳﻘﻠﻰ
+      fr: Igli
+ -
+  id: 54
   translations:
-    name: Timimoun
-    ar_name: تيميمون
-  dairas:
-
-id: 55
+    fr: Timimoun
+    ar: تيميمون
+  area: 65203
+  districts:
+    - ar: أوﻗﺮت
+      fr: Aougrout
+    - ar: ﺷﺮوﻳﻦ
+      fr: Charouine
+    - ar: ﺗﻴﻤﻴﻤﻮن
+      fr: Timimoun
+    - ar: تينركوك
+      fr: Tinerkouk
+ -
+  id: 55
   translations:
-    name: Touggourt
-    ar_name: تقرت
-  dairas:
-
-id: 56
+    fr: Touggourt
+    ar: تقرت
+  area: 17428
+  districts:
+    - ar: اﻟﻤﻘﺎرﻳﻦ
+      fr: Megarine
+    - ar: اﻟﻄﻴﺒﺎت
+      fr: Taibet
+    - ar: ﺗﻤﺎﺳﻴﻦ
+      fr: Tamacine
+    - ar: تقرت
+      fr: Touggourt
+ -
+  id: 56
   translations:
-    name: Djanet
-    ar_name: جانت
-  dairas:
-
-id: 57
+    fr: Djanet
+    ar: جانت
+  area: 86185
+  districts:
+    - fr: Djanet
+      ar: جانت
+ -
+  id: 57
   translations:
-    name: In Salah
-    ar_name: عين صالح
-  dairas:
-
-id: 58
+    fr: In Salah
+    ar: عين صالح
+  area: 131220
+  districts:
+    - ar: إن غار
+      fr: In Ghar
+    - ar: عين صالح
+      fr: In Salah
+ -
+  id: 58
   translations:
-    name: In Guezzam
-    ar_name: عين قزام
-  dairas:
+    fr: In Guezzam
+    ar: عين قزام
+  area: 88126
+  districts:
+    - ar: عين قزام
+      fr: In Guezzam
+    - ar: تين زاوتين
+      fr: Tin Zaouatine
