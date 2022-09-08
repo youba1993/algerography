@@ -1,8 +1,6 @@
 # Algerography
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/algerography`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Algerography is a library that contains Algerian cities and districtes 
 
 ## Installation
 
@@ -21,8 +19,31 @@ Or install it yourself as:
     $ gem install algerography
 
 ## Usage
+```ruby
+ # prints all cities informations code, name, area, districtes
+    puts Algerography::French.all_data_cities
 
-TODO: Write usage instructions here
+    #prints all districtes names in Algeria
+    puts Algerography::French.all_cities_districts
+
+    #prints all cities names in Algeria
+    puts Algerography::French.cities_names
+
+    #prints a city by its id
+    puts Algerography::French.city_by_id 6
+
+    # the French version is the same as english version 
+    # there is also a version in arabic 
+    
+    puts Algerography::Arabic.all_data_cities
+    
+    puts Algerography::Arabic.all_cities_districts
+   
+    puts Algerography::Arabic.cities_names
+    
+    puts Algerography::Arabic.city_by_id 6
+  ```
+
 
 ## Development
 
