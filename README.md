@@ -30,7 +30,7 @@ Or install it yourself as:
     puts Algerography::French.cities_names
 
     #prints a city by its id
-    puts Algerography::French.city_by_id 6
+    puts Algerography::French.city_by_id #id id between 1..58
 
     # the French version is the same as english version 
     # there is also a version in arabic 
@@ -41,7 +41,7 @@ Or install it yourself as:
    
     puts Algerography::Arabic.cities_names
     
-    puts Algerography::Arabic.city_by_id 6
+    puts Algerography::Arabic.city_by_id #id id between 1..58
   ```
 
 
